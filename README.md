@@ -11,7 +11,7 @@
 
 The **Employee Data Processor** is a lightweight, modern Java application designed for rapidly analyzing and filtering large CSV employee datasets. Load your file, instantly view the data, apply advanced filters, manage column visibility, and get automatic salary analysis!
 
-No complex setup—just run the JAR and go! 🚀
+No complex setup. Just run the JAR and go! 🚀
 
 ---
 
@@ -28,7 +28,7 @@ No complex setup—just run the JAR and go! 🚀
 
 ---
 
-## 💡 Assignment Focus: Functional Programming Principles
+## 💡 Functional Programming Principles
 
 This program's design explicitly addresses key functional programming and Stream API requirements:
 
