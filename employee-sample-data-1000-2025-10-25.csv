@@ -1,0 +1,1001 @@
+EEID,Full Name,Job Title,Department,Business Unit,Age,Gender,Ethnicity,City,Country,Hire Date,Exit Date,Annual Salary,Bonus %
+E02387,Emily Davis,Sr. Manger,IT,Research & Development,55,Female,Black,Seattle,United States,4/8/2016,10/16/2021,$141604,15% 
+E04105,Theodore Dinh,Technical Architect,IT,Manufacturing,59,Male,Asian,Chongqing,China,11/29/1997,,$99975,0% 
+E02572,Luna Sanders,Director,Finance,Speciality Products,50,Female,Caucasian,Chicago,United States,10/26/2006,,$163099,20% 
+E02832,Penelope Jordan,Computer Systems Manager,IT,Manufacturing,26,Female,Caucasian,Chicago,United States,9/27/2019,,$84913,7% 
+E01639,Austin Vo,Sr. Analyst,Finance,Manufacturing,55,Male,Asian,Phoenix,United States,11/20/1995,,$95409,0% 
+E00644,Joshua Gupta,Account Representative,Sales,Corporate,57,Male,Asian,Chongqing,China,1/24/2017,,$50994,0% 
+E01550,Ruby Barnes,Manager,IT,Corporate,27,Female,Caucasian,Phoenix,United States,7/1/2020,,$119746,10% 
+E04332,Luke Martin,Analyst,Finance,Manufacturing,25,Male,Black,Miami,United States,5/16/2020,5/20/2021,$41336,0% 
+E04533,Easton Bailey,Manager,Accounting,Manufacturing,29,Male,Caucasian,Austin,United States,1/25/2019,,$113527,6% 
+E03838,Madeline Walker,Sr. Analyst,Finance,Speciality Products,34,Female,Caucasian,Chicago,United States,6/13/2018,,$77203,0% 
+E00591,Savannah Ali,Sr. Manger,Human Resources,Manufacturing,36,Female,Asian,Miami,United States,2/11/2009,,$157333,15% 
+E03344,Camila Rogers,Controls Engineer,Engineering,Speciality Products,27,Female,Caucasian,Seattle,United States,10/21/2021,,$109851,0% 
+E00530,Eli Jones,Manager,Human Resources,Manufacturing,59,Male,Caucasian,Austin,United States,3/14/1999,,$105086,9% 
+E04239,Everleigh Ng,Sr. Manger,Finance,Research & Development,51,Female,Asian,Shanghai,China,6/10/2021,,$146742,10% 
+E03496,Robert Yang,Sr. Analyst,Accounting,Speciality Products,31,Male,Asian,Austin,United States,11/4/2017,3/9/2020,$97078,0% 
+E00549,Isabella Xi,Vice President,Marketing,Research & Development,41,Female,Asian,Seattle,United States,3/13/2013,,$249270,30% 
+E00163,Bella Powell,Director,Finance,Research & Development,65,Female,Black,Phoenix,United States,3/4/2002,,$175837,20% 
+E00884,Camila Silva,Sr. Manger,Marketing,Speciality Products,64,Female,Latino,Seattle,United States,12/1/2003,,$154828,13% 
+E04116,David Barnes,Director,IT,Corporate,64,Male,Caucasian,Columbus,United States,11/3/2013,,$186503,24% 
+E04625,Adam Dang,Director,Sales,Research & Development,45,Male,Asian,Chongqing,China,7/9/2002,,$166331,18% 
+E03680,Elias Alvarado,Sr. Manger,IT,Manufacturing,56,Male,Latino,Manaus,Brazil,1/9/2012,,$146140,10% 
+E04732,Eva Rivera,Director,Sales,Manufacturing,36,Female,Latino,Miami,United States,4/2/2021,,$151703,21% 
+E03484,Logan Rivera,Director,IT,Research & Development,59,Male,Latino,Rio de Janerio,Brazil,5/24/2002,,$172787,28% 
+E00671,Leonardo Dixon,Analyst,Sales,Speciality Products,37,Male,Caucasian,Seattle,United States,9/5/2019,,$49998,0% 
+E02071,Mateo Her,Vice President,Sales,Speciality Products,44,Male,Asian,Chongqing,China,3/2/2014,,$207172,31% 
+E02206,Jose Henderson,Director,Human Resources,Speciality Products,41,Male,Black,Columbus,United States,4/17/2015,,$152239,23% 
+E04545,Abigail Mejia,Quality Engineer,Engineering,Corporate,56,Female,Latino,Rio de Janerio,Brazil,2/5/2005,,$98581,0% 
+E00154,Wyatt Chin,Vice President,Engineering,Speciality Products,43,Male,Asian,Seattle,United States,6/7/2004,,$246231,31% 
+E03343,Carson Lu,Engineering Manager,Engineering,Speciality Products,64,Male,Asian,Beijing,China,12/4/1996,,$99354,12% 
+E00304,Dylan Choi,Vice President,IT,Corporate,63,Male,Asian,Beijing,China,5/11/2012,,$231141,34% 
+E02594,Ezekiel Kumar,IT Coordinator,IT,Research & Development,28,Male,Asian,Columbus,United States,6/25/2017,,$54775,0% 
+E00402,Dominic Guzman,Analyst,Finance,Manufacturing,65,Male,Latino,Manaus,Brazil,5/16/2004,,$55499,0% 
+E01994,Angel Powell,Analyst II,Sales,Research & Development,61,Male,Caucasian,Seattle,United States,7/11/2008,,$66521,0% 
+E03549,Mateo Vu,Account Representative,Sales,Speciality Products,30,Male,Asian,Chongqing,China,9/29/2016,,$59100,0% 
+E03247,Caroline Jenkins,Analyst,Finance,Research & Development,27,Female,Caucasian,Chicago,United States,5/6/2018,,$49011,0% 
+E02074,Nora Brown,Enterprise Architect,IT,Manufacturing,32,Female,Caucasian,Austin,United States,2/11/2014,,$99575,0% 
+E04152,Adeline Huang,Controls Engineer,Engineering,Manufacturing,34,Female,Asian,Chengdu,China,12/16/2019,,$99989,0% 
+E01628,Jackson Perry,Vice President,Marketing,Research & Development,27,Male,Caucasian,Phoenix,United States,10/20/2019,,$256420,30% 
+E04285,Riley Padilla,Technical Architect,IT,Manufacturing,35,Female,Latino,Miami,United States,5/15/2013,,$78940,0% 
+E01417,Leah Pena,Enterprise Architect,IT,Corporate,57,Female,Latino,Manaus,Brazil,1/3/1994,,$82872,0% 
+E01754,Owen Lam,Sr. Business Partner,Human Resources,Speciality Products,30,Male,Asian,Chengdu,China,5/29/2017,7/16/2017,$86317,0% 
+E03749,Kennedy Foster,Manager,Marketing,Speciality Products,53,Female,Caucasian,Austin,United States,11/23/2013,,$113135,5% 
+E03574,John Moore,Vice President,IT,Speciality Products,52,Male,Caucasian,Seattle,United States,11/8/2005,,$199808,32% 
+E04600,William Vu,Account Representative,Sales,Speciality Products,37,Male,Asian,Shanghai,China,11/14/2013,,$56037,0% 
+E00586,Sadie Washington,Sr. Manger,Marketing,Research & Development,29,Female,Caucasian,Phoenix,United States,5/24/2019,,$122350,12% 
+E03538,Gabriel Holmes,Enterprise Architect,IT,Research & Development,40,Male,Caucasian,Seattle,United States,11/4/2010,,$92952,0% 
+E02185,Wyatt Rojas,Computer Systems Manager,IT,Corporate,32,Male,Latino,Austin,United States,3/20/2013,,$79921,5% 
+E03830,Eva Coleman,Director,IT,Research & Development,37,Female,Black,Seattle,United States,9/20/2009,,$167199,20% 
+E03720,Dominic Clark,Quality Engineer,Engineering,Research & Development,52,Male,Caucasian,Phoenix,United States,10/17/2012,,$71476,0% 
+E03025,Lucy Alexander,Director,Engineering,Manufacturing,45,Female,Caucasian,Seattle,United States,10/29/2014,,$189420,20% 
+E04917,Everleigh Washington,HRIS Analyst,Human Resources,Research & Development,64,Female,Caucasian,Phoenix,United States,10/20/2001,,$64057,0% 
+E00415,Leilani Butler,Analyst II,Marketing,Manufacturing,27,Female,Black,Phoenix,United States,9/21/2021,,$68728,0% 
+E02862,Peyton Huang,Sr. Manger,IT,Manufacturing,25,Female,Asian,Beijing,China,7/2/2021,,$125633,11% 
+E04207,John Contreras,Analyst II,Marketing,Manufacturing,35,Male,Latino,Columbus,United States,5/15/2011,,$66889,0% 
+E02139,Rylee Yu,Director,Accounting,Research & Development,36,Female,Asian,Seattle,United States,9/29/2015,,$178700,29% 
+E01797,Piper Lewis,Field Engineer,Engineering,Research & Development,33,Female,Caucasian,Chicago,United States,12/22/2018,,$83990,0% 
+E01839,Stella Alexander,Automation Engineer,Engineering,Corporate,52,Female,Caucasian,Chicago,United States,12/10/2005,,$102043,0% 
+E01633,Addison Do,Operations Engineer,Engineering,Manufacturing,46,Female,Asian,Columbus,United States,5/30/2001,,$90678,0% 
+E01848,Zoey Jackson,Business Partner,Human Resources,Manufacturing,46,Female,Black,Miami,United States,8/21/2008,,$59067,0% 
+E00716,John Chow,Sr. Manger,Marketing,Research & Development,45,Male,Asian,Chengdu,China,3/11/2021,,$135062,15% 
+E00699,Ava Ayala,Sr. Manger,IT,Corporate,55,Female,Latino,Manaus,Brazil,8/16/2006,,$159044,10% 
+E00502,Natalia Salazar,Sr. Analyst,Accounting,Manufacturing,44,Female,Latino,Manaus,Brazil,1/2/2019,7/8/2020,$74691,0% 
+E04000,Skylar Carrillo,Engineering Manager,Engineering,Corporate,44,Female,Latino,Austin,United States,12/18/2008,6/24/2021,$92753,13% 
+E02112,Christian Sanders,Vice President,Human Resources,Speciality Products,45,Male,Black,Seattle,United States,8/7/2013,,$236946,37% 
+E03824,Penelope Coleman,Analyst,Finance,Corporate,36,Female,Black,Miami,United States,8/27/2021,,$48906,0% 
+E03906,Piper Richardson,Sr. Analyst,Sales,Corporate,38,Female,Caucasian,Columbus,United States,1/27/2008,,$80024,0% 
+E00436,Everly Walker,HRIS Analyst,Human Resources,Speciality Products,41,Female,Caucasian,Seattle,United States,10/23/2009,1/22/2014,$54415,0% 
+E04798,Aurora Ali,Manager,Marketing,Research & Development,30,Female,Asian,Seattle,United States,4/24/2016,,$120341,7% 
+E01249,Penelope Guerrero,Vice President,IT,Speciality Products,43,Female,Latino,Seattle,United States,8/4/2009,,$208415,35% 
+E03349,Anna Mehta,Cloud Infrastructure Architect,IT,Speciality Products,32,Female,Asian,Seattle,United States,1/5/2020,,$78844,0% 
+E02966,William Foster,Field Engineer,Engineering,Manufacturing,58,Male,Caucasian,Phoenix,United States,5/23/2002,9/26/2021,$76354,0% 
+E01499,Jade Rojas,Director,Finance,Speciality Products,37,Female,Latino,Phoenix,United States,1/28/2019,,$165927,20% 
+E00105,Isla Espinoza,Manager,Accounting,Speciality Products,38,Female,Latino,Manaus,Brazil,11/16/2021,,$109812,9% 
+E00665,David Chu,Controls Engineer,Engineering,Corporate,55,Male,Asian,Seattle,United States,9/3/1998,,$86299,0% 
+E00791,Thomas Padilla,Vice President,Marketing,Research & Development,57,Male,Latino,Sao Paulo,Brazil,7/26/2003,,$206624,40% 
+E01540,Miles Salazar,IT Coordinator,IT,Manufacturing,36,Male,Latino,Sao Paulo,Brazil,12/23/2010,3/27/2014,$53215,0% 
+E04474,Mila Hong,Test Engineer,Engineering,Research & Development,30,Female,Asian,Chongqing,China,5/22/2017,10/8/2017,$86858,0% 
+E03417,Benjamin Moua,Computer Systems Manager,IT,Manufacturing,40,Male,Asian,Chongqing,China,7/2/2007,,$93971,8% 
+E00254,Samuel Morales,Analyst II,Finance,Corporate,34,Male,Latino,Phoenix,United States,6/27/2015,,$57008,0% 
+E02166,John Soto,Sr. Manger,Finance,Manufacturing,60,Male,Latino,Phoenix,United States,9/23/2015,,$141899,15% 
+E00935,Joseph Martin,Analyst II,Marketing,Corporate,41,Male,Black,Miami,United States,9/13/2016,,$64847,0% 
+E01525,Jose Ross,Engineering Manager,Engineering,Research & Development,53,Male,Caucasian,Miami,United States,4/8/1992,,$116878,11% 
+E00386,Parker James,Quality Engineer,Engineering,Speciality Products,45,Male,Black,Austin,United States,2/5/2005,,$70505,0% 
+E00416,Everleigh Fernandez,Director,Engineering,Research & Development,30,Female,Latino,Manaus,Brazil,5/22/2016,12/21/2020,$189702,28% 
+E03383,Lincoln Hall,Director,Accounting,Speciality Products,26,Male,Caucasian,Chicago,United States,7/28/2020,,$180664,27% 
+E01516,Willow Mai,Business Partner,Human Resources,Manufacturing,45,Female,Asian,Chengdu,China,12/17/2003,,$48345,0% 
+E01234,Jack Cheng,Director,Human Resources,Manufacturing,42,Male,Asian,Beijing,China,1/16/2014,,$152214,30% 
+E03440,Genesis Navarro,Cloud Infrastructure Architect,IT,Corporate,41,Female,Latino,Manaus,Brazil,4/28/2009,,$69803,0% 
+E00431,Eliza Hernandez,Network Architect,IT,Corporate,48,Female,Latino,Rio de Janerio,Brazil,7/4/2019,,$76588,0% 
+E01258,Gabriel Brooks,Network Engineer,IT,Manufacturing,29,Male,Caucasian,Miami,United States,12/10/2018,,$84596,0% 
+E00440,Jack Huynh,Manager,Marketing,Research & Development,27,Male,Asian,Chongqing,China,9/25/2018,12/22/2019,$114441,10% 
+E00595,Everly Chow,Sr. Manger,Finance,Speciality Products,33,Female,Asian,Beijing,China,4/21/2018,,$140402,15% 
+E00972,Amelia Salazar,Analyst II,Finance,Corporate,26,Female,Latino,Sao Paulo,Brazil,4/23/2019,,$59817,0% 
+E04562,Xavier Zheng,Account Representative,Sales,Manufacturing,31,Male,Asian,Austin,United States,7/22/2017,,$55854,0% 
+E02802,Matthew Chau,Sr. Business Partner,Human Resources,Research & Development,53,Male,Asian,Seattle,United States,11/16/2002,,$95998,0% 
+E01427,Mia Cheng,Sr. Manger,Sales,Manufacturing,34,Female,Asian,Phoenix,United States,4/22/2015,,$154941,13% 
+E04568,Rylee Yu,Vice President,Finance,Speciality Products,54,Female,Asian,Beijing,China,7/10/2011,,$247022,30% 
+E04931,Zoe Romero,Network Architect,IT,Manufacturing,32,Female,Latino,Sao Paulo,Brazil,10/5/2021,,$88072,0% 
+E00443,Nolan Bui,Computer Systems Manager,IT,Research & Development,28,Male,Asian,Shanghai,China,5/26/2020,,$67925,8% 
+E03890,Nevaeh Jones,Vice President,Sales,Manufacturing,31,Female,Caucasian,Austin,United States,8/20/2020,,$219693,30% 
+E01194,Samantha Adams,Test Engineer,Engineering,Research & Development,45,Female,Caucasian,Seattle,United States,4/22/2013,,$61773,0% 
+E02875,Madeline Shin,Computer Systems Manager,IT,Speciality Products,48,Female,Asian,Seattle,United States,1/9/2007,,$74546,9% 
+E04959,Noah King,Development Engineer,Engineering,Speciality Products,56,Male,Black,Miami,United States,1/27/2015,,$62575,0% 
+E03816,Leilani Chow,Director,Human Resources,Corporate,27,Female,Asian,Beijing,China,2/23/2021,,$199041,16% 
+E01261,Connor Simmons,Analyst II,Accounting,Speciality Products,55,Male,Caucasian,Miami,United States,4/5/2007,10/12/2018,$52310,0% 
+E03612,Grayson Cooper,Sr. Manger,Finance,Speciality Products,64,Male,Black,Columbus,United States,6/29/2013,,$159571,10% 
+E01388,Ivy Soto,Field Engineer,Engineering,Research & Development,50,Female,Latino,Austin,United States,10/23/1997,,$91763,0% 
+E03875,Aurora Simmons,Development Engineer,Engineering,Corporate,51,Female,Caucasian,Austin,United States,12/22/1995,,$96475,0% 
+E04413,Andrew Thomas,Controls Engineer,Engineering,Manufacturing,36,Male,Caucasian,Columbus,United States,12/2/2016,,$113781,0% 
+E00691,Ezekiel Desai,Director,Finance,Research & Development,42,Male,Asian,Seattle,United States,1/15/2003,,$166599,26% 
+E03047,Gabriella Gupta,Sr. Account Representative,Sales,Corporate,41,Female,Asian,Shanghai,China,2/15/2005,,$95372,0% 
+E04903,Skylar Liu,Director,IT,Research & Development,29,Female,Asian,Chengdu,China,8/9/2020,,$161203,15% 
+E04735,Nova Coleman,System Administrator ,IT,Manufacturing,44,Female,Caucasian,Miami,United States,12/13/2006,,$74738,0% 
+E02850,Evelyn Dinh,Director,Sales,Research & Development,41,Female,Asian,Columbus,United States,8/10/2018,,$171173,21% 
+E03583,Brooks Marquez,Vice President,Sales,Corporate,61,Male,Latino,Chicago,United States,9/24/2019,,$201464,37% 
+E02017,Connor Joseph,Director,Human Resources,Corporate,50,Male,Caucasian,Chicago,United States,7/22/1998,,$174895,15% 
+E01642,Mia Lam,Sr. Manger,IT,Manufacturing,49,Female,Asian,Austin,United States,4/18/2006,,$134486,14% 
+E04379,Scarlett Rodriguez,Sr. Analyst,Finance,Manufacturing,60,Female,Latino,Manaus,Brazil,2/24/2007,,$71699,0% 
+E04131,Cora Rivera,Sr. Analyst,Marketing,Corporate,42,Female,Latino,Seattle,United States,1/2/2021,,$94430,0% 
+E02872,Liam Jung,Manager,Finance,Corporate,39,Male,Asian,Chengdu,China,1/14/2010,,$103504,7% 
+E02331,Sophia Huynh,Enterprise Architect,IT,Manufacturing,55,Female,Asian,Miami,United States,8/9/2005,,$92771,0% 
+E00417,Athena Carrillo,Analyst II,Finance,Speciality Products,39,Female,Latino,Columbus,United States,4/6/2006,,$71531,0% 
+E04267,Greyson Sanders,Cloud Infrastructure Architect,IT,Speciality Products,28,Male,Black,Chicago,United States,3/6/2019,,$90304,0% 
+E03061,Vivian Lewis,Manager,Marketing,Manufacturing,65,Female,Caucasian,Columbus,United States,9/7/2011,,$104903,10% 
+E00013,Elena Vang,Analyst,Finance,Corporate,52,Female,Asian,Beijing,China,2/19/2019,,$55859,0% 
+E04265,Natalia Diaz,Operations Engineer,Engineering,Corporate,62,Female,Latino,Austin,United States,10/12/2006,,$79785,0% 
+E04769,Mila Leung,Sr. Analyst,Marketing,Corporate,39,Female,Asian,Beijing,China,11/5/2007,,$99017,0% 
+E03042,Ava Nelson,Systems Analyst,IT,Manufacturing,63,Female,Caucasian,Phoenix,United States,4/1/1992,,$53809,0% 
+E00527,Mateo Chu,Field Engineer,Engineering,Speciality Products,27,Male,Asian,Chengdu,China,4/16/2020,,$71864,0% 
+E01095,Isla Lai,Vice President,Finance,Corporate,37,Female,Asian,Shanghai,China,12/6/2011,,$225558,33% 
+E03131,Ezekiel Reed,Sr. Manger,IT,Manufacturing,37,Male,Caucasian,Miami,United States,2/25/2014,5/1/2021,$128984,12% 
+E01713,Nolan Guzman,Field Engineer,Engineering,Speciality Products,46,Male,Latino,Sao Paulo,Brazil,6/20/1999,,$96997,0% 
+E00128,Everleigh Espinoza,Director,Human Resources,Manufacturing,54,Female,Latino,Austin,United States,1/22/2018,,$176294,28% 
+E03849,Evelyn Jung,Analyst,Sales,Research & Development,30,Female,Asian,Beijing,China,2/14/2021,,$48340,0% 
+E02464,Sophie Silva,Vice President,Engineering,Corporate,28,Female,Latino,Rio de Janerio,Brazil,7/6/2017,,$240488,40% 
+E00306,Mateo Williams,Enterprise Architect,IT,Manufacturing,40,Male,Caucasian,Austin,United States,1/22/2011,,$97339,0% 
+E03737,Kennedy Rahman,Vice President,Human Resources,Manufacturing,49,Female,Asian,Chongqing,China,2/28/2003,,$211291,37% 
+E02783,Levi Mendez,Vice President,Sales,Research & Development,39,Male,Latino,Rio de Janerio,Brazil,8/23/2011,,$249506,30% 
+E02939,Julian Fong,Quality Engineer,Engineering,Speciality Products,61,Male,Asian,Chongqing,China,11/22/2002,,$80950,0% 
+E02706,Nevaeh Kang,Automation Engineer,Engineering,Research & Development,46,Female,Asian,Chengdu,China,1/10/2021,,$86538,0% 
+E00170,Hannah Nelson,Sr. Analyst,Marketing,Speciality Products,35,Female,Caucasian,Austin,United States,9/7/2019,,$70992,0% 
+E01425,Anthony Rogers,Vice President,Engineering,Corporate,33,Male,Caucasian,Columbus,United States,6/18/2015,,$205314,30% 
+E00130,Paisley Kang,Vice President,Human Resources,Corporate,61,Female,Asian,Beijing,China,3/10/2017,,$196951,33% 
+E02094,Matthew Gupta,Network Engineer,IT,Speciality Products,45,Male,Asian,Beijing,China,9/18/2005,,$67686,0% 
+E03567,Silas Chavez,Technical Architect,IT,Research & Development,51,Male,Latino,Columbus,United States,4/15/2008,,$86431,0% 
+E04682,Colton Thao,Manager,Human Resources,Manufacturing,55,Male,Asian,Chongqing,China,11/16/1995,,$125936,8% 
+E00957,Genesis Perry,Sr. Manger,Sales,Corporate,46,Female,Caucasian,Columbus,United States,7/18/2013,,$149712,14% 
+E04458,Alexander Bryant,Field Engineer,Engineering,Speciality Products,30,Male,Caucasian,Seattle,United States,10/2/2021,,$88758,0% 
+E01499,Elias Zhang,Solutions Architect,IT,Research & Development,54,Male,Asian,Beijing,China,7/13/2013,,$83639,0% 
+E00521,Lily Carter,Network Architect,IT,Research & Development,54,Female,Caucasian,Phoenix,United States,5/18/1998,,$68268,0% 
+E03717,Joseph Ruiz,Field Engineer,Engineering,Manufacturing,45,Male,Latino,Sao Paulo,Brazil,2/26/2002,,$75819,0% 
+E01533,Avery Bailey,Sr. Analyst,Sales,Speciality Products,49,Female,Caucasian,Phoenix,United States,5/15/1996,,$86658,0% 
+E04449,Miles Hsu,Analyst II,Finance,Research & Development,55,Male,Asian,Chengdu,China,3/16/2014,,$74552,0% 
+E02855,Piper Cheng,Enterprise Architect,IT,Manufacturing,62,Female,Asian,Miami,United States,3/15/2009,,$82839,0% 
+E00816,Skylar Watson,Network Architect,IT,Speciality Products,28,Female,Caucasian,Phoenix,United States,10/8/2021,,$64475,0% 
+E02283,Jaxon Park,Network Architect,IT,Manufacturing,33,Male,Asian,Chengdu,China,7/24/2020,,$69453,0% 
+E04888,Elijah Henry,Manager,IT,Corporate,32,Male,Caucasian,Miami,United States,1/3/2014,,$127148,10% 
+E03907,Camila Watson,Vice President,Finance,Speciality Products,32,Female,Caucasian,Austin,United States,1/2/2018,,$190253,33% 
+E02166,Lucas Thomas,Manager,Accounting,Research & Development,55,Male,Caucasian,Miami,United States,4/28/2000,,$115798,5% 
+E00431,Skylar Doan,Sr. Business Partner,Human Resources,Research & Development,58,Female,Asian,Seattle,United States,8/21/1994,12/13/2013,$93102,0% 
+E01501,Hudson Liu,Engineering Manager,Engineering,Speciality Products,34,Male,Asian,Miami,United States,11/16/2017,,$110054,15% 
+E01141,Gianna Williams,Quality Engineer,Engineering,Research & Development,27,Female,Black,Chicago,United States,1/28/2021,,$95786,0% 
+E02254,Jaxson Sandoval,Sr. Analyst,Sales,Speciality Products,61,Male,Latino,Sao Paulo,Brazil,5/3/2017,,$90855,0% 
+E04504,Jameson Alvarado,Enterprise Architect,IT,Manufacturing,47,Male,Latino,Sao Paulo,Brazil,3/14/1999,,$92897,0% 
+E03394,Joseph Ly,Vice President,Marketing,Speciality Products,40,Male,Asian,Chongqing,China,2/28/2009,,$242919,31% 
+E02942,Daniel Richardson,Director,Engineering,Speciality Products,30,Male,Caucasian,Austin,United States,5/20/2018,,$184368,29% 
+E04130,Elias Figueroa,Sr. Manger,Finance,Corporate,45,Male,Latino,Phoenix,United States,12/24/2021,,$144754,15% 
+E02848,Emma Brooks,Sr. Account Representative,Sales,Research & Development,30,Female,Caucasian,Austin,United States,12/18/2016,,$89458,0% 
+E00085,Isla Wong,Vice President,Accounting,Corporate,56,Female,Asian,Austin,United States,3/16/2014,,$190815,40% 
+E03956,Everly Walker,Sr. Manger,Sales,Research & Development,62,Female,Caucasian,Austin,United States,8/2/1999,,$137995,14% 
+E00672,Mila Pena,Sr. Business Partner,Human Resources,Manufacturing,45,Female,Latino,Manaus,Brazil,12/21/2007,,$93840,0% 
+E04618,Mason Zhao,Technical Architect,IT,Research & Development,46,Male,Asian,Chongqing,China,10/26/2021,,$94790,0% 
+E03506,Jaxson Mai,Vice President,Human Resources,Research & Development,48,Male,Asian,Austin,United States,3/8/2014,,$197367,39% 
+E00568,Ava Garza,Director,Accounting,Manufacturing,27,Female,Latino,Phoenix,United States,6/25/2018,,$174097,21% 
+E00535,Nathan Mendez,Manager,IT,Speciality Products,53,Male,Latino,Austin,United States,10/31/2006,,$120128,10% 
+E04630,Maria Griffin,Manager,Marketing,Manufacturing,59,Female,Caucasian,Miami,United States,4/25/2007,,$129708,5% 
+E00874,Alexander Choi,Manager,Marketing,Research & Development,55,Male,Asian,Chicago,United States,9/18/1994,,$102270,10% 
+E01546,Maria Hong,Vice President,Finance,Speciality Products,43,Female,Asian,Chongqing,China,7/31/2005,,$249686,31% 
+E00941,Sophie Ali,Analyst,Finance,Manufacturing,55,Female,Asian,Columbus,United States,3/28/2002,,$50475,0% 
+E03446,Julian Ross,Manager,Marketing,Research & Development,51,Male,Caucasian,Miami,United States,7/2/2020,,$100099,8% 
+E01361,Emma Hill,IT Coordinator,IT,Manufacturing,54,Female,Caucasian,Miami,United States,12/27/2016,,$41673,0% 
+E01631,Leilani Yee,Sr. Analyst,Marketing,Speciality Products,47,Female,Asian,Chengdu,China,7/12/2017,,$70996,0% 
+E03719,Jack Brown,Analyst,Marketing,Corporate,55,Male,Caucasian,Phoenix,United States,12/7/2004,,$40752,0% 
+E03269,Charlotte Chu,Network Engineer,IT,Manufacturing,50,Female,Asian,Chengdu,China,1/23/2001,,$97537,0% 
+E01037,Jeremiah Chu,IT Systems Architect,IT,Research & Development,31,Male,Asian,Shanghai,China,9/12/2020,,$96567,0% 
+E00671,Miles Cho,Systems Analyst,IT,Speciality Products,47,Male,Asian,Beijing,China,3/10/1999,,$49404,0% 
+E02216,Caleb Marquez,IT Systems Architect,IT,Research & Development,29,Male,Latino,Rio de Janerio,Brazil,10/15/2019,,$66819,0% 
+E02803,Eli Soto,Analyst,Marketing,Speciality Products,38,Male,Latino,Rio de Janerio,Brazil,5/2/2016,,$50784,0% 
+E01584,Carter Mejia,Sr. Manger,Human Resources,Research & Development,29,Male,Latino,Sao Paulo,Brazil,5/9/2019,,$125828,15% 
+E02489,Ethan Clark,Sr. Business Partner,Human Resources,Manufacturing,33,Male,Caucasian,Columbus,United States,8/4/2017,,$92610,0% 
+E03189,Asher Jackson,Sr. Manger,Sales,Speciality Products,50,Male,Caucasian,Columbus,United States,3/25/2003,,$123405,13% 
+E03560,Ayla Ng,Account Representative,Sales,Manufacturing,46,Female,Asian,Beijing,China,3/20/2004,,$73004,0% 
+E00769,Jose Kang,Engineering Manager,Engineering,Corporate,57,Male,Asian,Shanghai,China,4/25/1999,,$95061,10% 
+E02791,Aubrey Romero,Director,Sales,Corporate,49,Female,Latino,Phoenix,United States,4/2/1998,,$160832,30% 
+E02333,Jaxson Wright,Service Desk Analyst,IT,Manufacturing,54,Male,Black,Columbus,United States,12/28/2010,,$64417,0% 
+E01002,Elias Ali,Manager,Sales,Corporate,28,Male,Asian,Shanghai,China,3/19/2021,,$127543,6% 
+E03520,Nolan Pena,Analyst,Marketing,Manufacturing,30,Male,Latino,Sao Paulo,Brazil,6/21/2018,,$56154,0% 
+E00752,Luna Liu,Vice President,Sales,Manufacturing,36,Female,Asian,Shanghai,China,2/22/2014,,$218530,30% 
+E00233,Brooklyn Reyes,Service Desk Analyst,IT,Manufacturing,36,Female,Latino,Columbus,United States,12/19/2019,,$91954,0% 
+E02639,Hadley Parker,Vice President,Marketing,Corporate,30,Female,Black,Columbus,United States,9/21/2016,9/25/2017,$221217,32% 
+E00697,Jonathan Chavez,System Administrator ,IT,Manufacturing,29,Male,Latino,Seattle,United States,5/11/2017,,$87536,0% 
+E02183,Sarah Ayala,Analyst,Sales,Corporate,47,Female,Latino,Seattle,United States,6/9/2015,,$41429,0% 
+E00715,Elijah Kang,Vice President,Engineering,Manufacturing,35,Male,Asian,Seattle,United States,10/10/2011,,$245482,39% 
+E04288,Ella White,Development Engineer,Engineering,Manufacturing,25,Female,Caucasian,Phoenix,United States,1/20/2020,,$71359,0% 
+E02421,Jordan Truong,Director,Engineering,Speciality Products,45,Male,Asian,Miami,United States,8/28/2014,,$183161,22% 
+E00523,Daniel Jordan,Network Administrator,IT,Corporate,58,Male,Caucasian,Phoenix,United States,7/26/1993,,$69260,0% 
+E03615,Daniel Dixon,Operations Engineer,Engineering,Speciality Products,51,Male,Caucasian,Austin,United States,10/9/1999,,$95639,0% 
+E02761,Luca Duong,Manager,Human Resources,Research & Development,48,Male,Asian,Chengdu,China,6/30/2004,,$120660,7% 
+E02121,Levi Brown,Sr. Analyst,Sales,Corporate,36,Male,Black,Chicago,United States,12/26/2021,,$75119,0% 
+E01486,Mason Cho,Vice President,Accounting,Research & Development,59,Male,Asian,Chicago,United States,5/18/2011,,$192213,40% 
+E00725,Nova Herrera,Account Representative,Sales,Speciality Products,45,Female,Latino,Sao Paulo,Brazil,5/10/2014,,$65047,0% 
+E03027,Elijah Watson,Sr. Manger,Sales,Manufacturing,29,Male,Caucasian,Seattle,United States,3/16/2017,,$151413,15% 
+E03689,Wesley Gray,Sr. Analyst,Accounting,Speciality Products,62,Male,Caucasian,Seattle,United States,4/22/2003,,$76906,0% 
+E01986,Wesley Sharma,Manager,IT,Corporate,51,Male,Asian,Shanghai,China,2/23/1994,,$122802,5% 
+E01286,Mateo Mendez,Development Engineer,Engineering,Research & Development,47,Male,Latino,Austin,United States,7/14/1998,,$99091,0% 
+E01409,Jose Molina,Controls Engineer,Engineering,Manufacturing,40,Male,Latino,Manaus,Brazil,2/28/2008,,$113987,0% 
+E00626,Luna Simmons,Sr. Analyst,Finance,Corporate,28,Female,Caucasian,Chicago,United States,9/4/2020,,$95045,0% 
+E04342,Samantha Barnes,Vice President,Marketing,Speciality Products,29,Female,Caucasian,Columbus,United States,1/5/2017,,$190401,37% 
+E03904,Hunter Ortiz,Sr. Analyst,Finance,Corporate,46,Male,Latino,Rio de Janerio,Brazil,1/20/2013,,$86061,0% 
+E01291,Thomas Aguilar,Sr. Account Representative,Sales,Speciality Products,45,Male,Latino,Phoenix,United States,2/10/2021,,$79882,0% 
+E00917,Skylar Bell,Vice President,Engineering,Manufacturing,30,Female,Caucasian,Columbus,United States,3/6/2018,,$255431,36% 
+E01484,Anna Zhu,Service Desk Analyst,IT,Manufacturing,48,Female,Asian,Beijing,China,8/22/2003,,$82017,0% 
+E03864,Ella Hunter,Analyst,Finance,Manufacturing,51,Female,Caucasian,Columbus,United States,1/18/2017,,$53799,0% 
+E00488,Emery Hunter,Sr. Analyst,Sales,Corporate,28,Female,Caucasian,Phoenix,United States,7/3/2021,,$82739,0% 
+E02227,Sofia Parker,Cloud Infrastructure Architect,IT,Manufacturing,36,Female,Caucasian,Chicago,United States,5/30/2014,,$99080,0% 
+E04802,Lucy Fong,Sr. Account Representative,Sales,Corporate,40,Female,Asian,Chengdu,China,1/20/2011,,$96719,0% 
+E01970,Vivian Barnes,Director,Human Resources,Research & Development,51,Female,Caucasian,Phoenix,United States,3/28/2021,,$180687,19% 
+E02813,Kai Chow,Engineering Manager,Engineering,Corporate,45,Male,Asian,Austin,United States,4/12/2001,1/15/2010,$95743,15% 
+E02031,Melody Cooper,Development Engineer,Engineering,Research & Development,44,Female,Caucasian,Austin,United States,9/4/2009,,$89695,0% 
+E03252,James Bui,Manager,Finance,Manufacturing,64,Male,Asian,Chongqing,China,7/20/1998,,$122753,9% 
+E04871,Liam Grant,Sr. Business Partner,Human Resources,Research & Development,30,Male,Caucasian,Phoenix,United States,3/15/2015,,$93734,0% 
+E03547,Owen Han,Analyst,Accounting,Corporate,28,Male,Asian,Chongqing,China,5/12/2017,,$52069,0% 
+E04742,Kinsley Vega,Vice President,Accounting,Corporate,33,Female,Latino,Rio de Janerio,Brazil,12/16/2020,,$258426,40% 
+E01070,Leonardo Martin,Manager,Finance,Speciality Products,51,Male,Black,Chicago,United States,2/16/1995,,$125375,9% 
+E04359,Greyson Lam,Vice President,Accounting,Manufacturing,25,Male,Asian,Miami,United States,2/8/2021,,$198243,31% 
+E03268,Emilia Rivera,Test Engineer,Engineering,Research & Development,42,Female,Latino,Miami,United States,11/23/2017,,$96023,0% 
+E04035,Penelope Johnson,Sr. Analyst,Marketing,Research & Development,34,Female,Caucasian,Chicago,United States,6/25/2012,6/5/2013,$83066,0% 
+E01221,Eva Figueroa,Analyst II,Sales,Research & Development,48,Female,Latino,Seattle,United States,5/14/2014,,$61216,0% 
+E00276,Ezekiel Jordan,Sr. Manger,Accounting,Corporate,33,Male,Caucasian,Columbus,United States,2/10/2013,7/17/2020,$144231,14% 
+E01687,Luke Mai,HRIS Analyst,Human Resources,Research & Development,41,Male,Asian,Beijing,China,10/24/2007,,$51630,0% 
+E02844,Charles Diaz,Sr. Manger,Sales,Corporate,55,Male,Latino,Sao Paulo,Brazil,11/16/2013,,$124129,15% 
+E01263,Adam Espinoza,Test Engineer,Engineering,Manufacturing,36,Male,Latino,Seattle,United States,4/9/2009,,$60055,0% 
+E00119,Jack Maldonado,Director,Engineering,Research & Development,31,Male,Latino,Sao Paulo,Brazil,8/26/2020,9/25/2020,$189290,22% 
+E03935,Cora Jiang,Vice President,IT,Corporate,53,Female,Asian,Austin,United States,4/30/2008,,$182202,30% 
+E00742,Cooper Mitchell,Manager,Sales,Speciality Products,43,Male,Caucasian,Seattle,United States,1/31/2006,,$117518,7% 
+E02810,Layla Torres,Sr. Manger,Finance,Manufacturing,37,Female,Latino,Rio de Janerio,Brazil,2/24/2013,,$157474,11% 
+E01860,Jack Edwards,Manager,Marketing,Manufacturing,38,Male,Caucasian,Columbus,United States,4/6/2008,,$126856,6% 
+E04890,Eleanor Chan,Sr. Manger,Accounting,Manufacturing,49,Female,Asian,Shanghai,China,4/2/2001,,$129124,12% 
+E02285,Aria Xi,Director,Sales,Research & Development,45,Female,Asian,Seattle,United States,3/1/2002,,$165181,16% 
+E00842,John Vega,Vice President,Finance,Corporate,50,Male,Latino,Rio de Janerio,Brazil,1/18/2004,,$247939,35% 
+E01271,Luke Munoz,Director,Engineering,Speciality Products,64,Male,Latino,Manaus,Brazil,8/25/2017,,$169509,18% 
+E01921,Sarah Daniels,Sr. Manger,Accounting,Manufacturing,55,Female,Caucasian,Miami,United States,1/9/2011,,$138521,10% 
+E03664,Aria Castro,Engineering Manager,Engineering,Speciality Products,45,Female,Latino,Rio de Janerio,Brazil,3/14/2014,,$113873,11% 
+E00813,Autumn Joseph,Enterprise Architect,IT,Corporate,39,Female,Black,Miami,United States,5/9/2018,,$73317,0% 
+E00870,Evelyn Liang,Service Desk Analyst,IT,Speciality Products,40,Female,Asian,Seattle,United States,6/26/2013,,$69096,0% 
+E04167,Henry Alvarez,Sr. Business Partner,Human Resources,Manufacturing,48,Male,Latino,Manaus,Brazil,4/12/2005,,$87158,0% 
+E00245,Benjamin Delgado,Test Engineer,Engineering,Corporate,64,Male,Latino,Austin,United States,9/28/1992,,$70778,0% 
+E00976,Zoe Rodriguez,Director,Human Resources,Speciality Products,65,Female,Latino,Phoenix,United States,5/23/2004,,$153938,20% 
+E04112,Axel Chu,Systems Analyst,IT,Research & Development,43,Male,Asian,Beijing,China,5/4/2018,,$59888,0% 
+E01807,Cameron Evans,Test Engineer,Engineering,Corporate,50,Male,Caucasian,Columbus,United States,12/13/2018,,$63098,0% 
+E04103,Isabella Soto,Vice President,Finance,Corporate,27,Female,Latino,Sao Paulo,Brazil,12/15/2021,,$255369,33% 
+E01412,Eva Jenkins,Sr. Manger,Human Resources,Manufacturing,55,Female,Black,Chicago,United States,11/10/2004,,$142318,14% 
+E04386,Cameron Powell,Business Partner,Human Resources,Manufacturing,41,Male,Black,Austin,United States,8/20/2004,6/17/2008,$49186,0% 
+E01232,Samantha Foster,Vice President,Human Resources,Research & Development,34,Female,Black,Austin,United States,7/27/2019,,$220937,38% 
+E04572,Jade Li,Director,IT,Speciality Products,47,Female,Asian,Seattle,United States,10/26/2012,,$183156,30% 
+E02747,Kinsley Acosta,Vice President,IT,Speciality Products,32,Female,Latino,Chicago,United States,7/22/2020,,$192749,31% 
+E01064,Clara Kang,Sr. Manger,IT,Manufacturing,39,Female,Asian,Phoenix,United States,3/25/2017,,$135325,14% 
+E00178,Harper Alexander,Sr. Analyst,Sales,Speciality Products,26,Female,Caucasian,Phoenix,United States,10/14/2019,,$79356,0% 
+E01091,Carter Reed,Development Engineer,Engineering,Manufacturing,40,Male,Black,Seattle,United States,7/7/2005,,$74412,0% 
+E01525,Charlotte Ruiz,Computer Systems Manager,IT,Manufacturing,32,Female,Latino,Rio de Janerio,Brazil,10/2/2017,,$61886,9% 
+E01309,Everleigh Jiang,Director,Accounting,Research & Development,58,Female,Asian,Columbus,United States,5/14/2003,,$173071,29% 
+E02378,Audrey Smith,Field Engineer,Engineering,Research & Development,58,Female,Caucasian,Columbus,United States,10/27/1995,,$70189,0% 
+E04127,Emery Acosta,Vice President,Sales,Research & Development,42,Female,Latino,Columbus,United States,9/11/2013,,$181452,30% 
+E02072,Charles Robinson,HRIS Analyst,Human Resources,Speciality Products,26,Male,Caucasian,Seattle,United States,3/12/2021,,$70369,0% 
+E02555,Landon Lopez,Sr. Analyst,Accounting,Manufacturing,38,Male,Latino,Sao Paulo,Brazil,7/5/2008,,$78056,0% 
+E00187,Miles Mehta,Director,Finance,Research & Development,64,Male,Asian,Miami,United States,5/2/1996,,$189933,23% 
+E04332,Ezra Simmons,Automation Engineer,Engineering,Speciality Products,38,Male,Caucasian,Phoenix,United States,7/1/2010,,$78237,0% 
+E02062,Nora Santiago,Analyst,Accounting,Research & Development,55,Female,Latino,Rio de Janerio,Brazil,6/26/1996,,$48687,0% 
+E00034,Caroline Herrera,Sr. Manger,Marketing,Manufacturing,45,Female,Latino,Rio de Janerio,Brazil,8/19/2004,,$121065,15% 
+E00273,David Owens,Sr. Analyst,Sales,Corporate,43,Male,Black,Austin,United States,4/16/2004,,$94246,0% 
+E00691,Avery Yee,Systems Analyst,IT,Manufacturing,34,Female,Asian,Miami,United States,5/22/2016,,$44614,0% 
+E01403,Xavier Park,Vice President,IT,Research & Development,40,Male,Asian,Chengdu,China,11/8/2020,,$234469,31% 
+E03438,Asher Morales,Automation Engineer,Engineering,Research & Development,52,Male,Latino,Sao Paulo,Brazil,7/10/2020,,$88272,0% 
+E04136,Mason Cao,Analyst II,Finance,Corporate,52,Male,Asian,Beijing,China,9/14/2017,,$74449,0% 
+E02944,Joshua Fong,Vice President,Engineering,Speciality Products,47,Male,Asian,Beijing,China,6/11/2012,,$222941,39% 
+E03300,Maria Chin,Analyst,Marketing,Manufacturing,65,Female,Asian,Beijing,China,9/26/2013,,$50341,0% 
+E00078,Eva Garcia,HRIS Analyst,Human Resources,Corporate,31,Female,Latino,Manaus,Brazil,4/11/2021,,$72235,0% 
+E00825,Anna Molina,Sr. Analyst,Accounting,Corporate,41,Female,Latino,Columbus,United States,6/12/2016,,$70165,0% 
+E04972,Logan Bryant,Sr. Manger,Marketing,Speciality Products,30,Male,Caucasian,Miami,United States,7/18/2020,,$148485,15% 
+E03941,Isla Han,Technical Architect,IT,Manufacturing,58,Female,Asian,Chicago,United States,6/18/2005,,$86089,0% 
+E02148,Christopher Vega,Engineering Manager,Engineering,Research & Development,54,Male,Latino,Chicago,United States,10/27/2007,,$106313,15% 
+E02252,Lillian Park,Analyst,Marketing,Research & Development,40,Female,Asian,Chengdu,China,2/24/2021,11/10/2021,$46833,0% 
+E03096,Kennedy Zhang,Director,Finance,Research & Development,63,Female,Asian,Chongqing,China,10/27/2000,,$155320,17% 
+E04800,Eli Han,Sr. Analyst,Accounting,Manufacturing,40,Male,Asian,Chengdu,China,1/15/2016,,$89984,0% 
+E02838,Julia Pham,Engineering Manager,Engineering,Speciality Products,65,Female,Asian,Shanghai,China,3/16/2006,,$83756,14% 
+E02980,Hailey Shin,Director,Human Resources,Corporate,57,Female,Asian,Shanghai,China,10/24/2016,,$176324,23% 
+E04477,Connor Grant,Sr. Analyst,Accounting,Speciality Products,27,Male,Caucasian,Seattle,United States,10/13/2021,,$74077,0% 
+E04348,Natalia Owens,Manager,Human Resources,Manufacturing,31,Female,Caucasian,Austin,United States,1/18/2021,,$104162,7% 
+E01638,Maria He,IT Systems Architect,IT,Corporate,45,Female,Asian,Beijing,China,8/28/2010,10/3/2020,$82162,0% 
+E03419,Jade Yi,Account Representative,Sales,Speciality Products,47,Female,Asian,Chongqing,China,7/10/2015,,$63880,0% 
+E04222,Quinn Xiong,Test Engineer,Engineering,Research & Development,55,Female,Asian,Columbus,United States,9/8/2013,,$73248,0% 
+E04126,Dominic Baker,Sr. Analyst,Accounting,Manufacturing,51,Male,Black,Chicago,United States,10/9/2020,,$91853,0% 
+E01896,Adam Nelson,Director,Finance,Speciality Products,25,Male,Caucasian,Chicago,United States,1/14/2020,7/27/2021,$168014,27% 
+E03018,Autumn Reed,Development Engineer,Engineering,Corporate,37,Female,Caucasian,Miami,United States,9/17/2017,,$70770,0% 
+E03325,Robert Edwards,HRIS Analyst,Human Resources,Corporate,62,Male,Caucasian,Seattle,United States,10/11/2004,,$50825,0% 
+E04037,Roman Martinez,Sr. Manger,Finance,Research & Development,31,Male,Latino,Manaus,Brazil,9/19/2015,,$145846,15% 
+E01902,Eleanor Li,Sr. Manger,Human Resources,Research & Development,64,Female,Asian,Chicago,United States,12/7/2003,,$125807,15% 
+E01466,Connor Vang,Analyst,Sales,Speciality Products,25,Male,Asian,Miami,United States,7/28/2021,,$46845,0% 
+E02038,Ellie Chung,Sr. Manger,Marketing,Corporate,59,Female,Asian,Chongqing,China,8/29/2008,,$157969,10% 
+E03474,Violet Hall,Solutions Architect,IT,Corporate,40,Female,Caucasian,Chicago,United States,12/10/2010,,$97807,0% 
+E02744,Dylan Padilla,HRIS Analyst,Human Resources,Manufacturing,31,Male,Latino,Seattle,United States,12/9/2015,,$73854,0% 
+E00702,Nathan Pham,Sr. Manger,Accounting,Manufacturing,45,Male,Asian,Seattle,United States,12/12/2006,,$149537,14% 
+E03081,Ayla Brown,Sr. Manger,Sales,Manufacturing,49,Female,Caucasian,Phoenix,United States,4/15/2013,,$128303,15% 
+E01281,Isaac Mitchell,Network Architect,IT,Speciality Products,46,Male,Black,Austin,United States,6/10/2005,,$67374,0% 
+E04029,Jayden Jimenez,Manager,Human Resources,Corporate,46,Male,Latino,Rio de Janerio,Brazil,9/24/2011,,$102167,6% 
+E01116,Jaxon Tran,Sr. Manger,Sales,Manufacturing,45,Male,Asian,Shanghai,China,9/7/2007,,$151027,10% 
+E01753,Connor Fong,Manager,Accounting,Speciality Products,40,Male,Asian,Seattle,United States,2/16/2018,,$120905,5% 
+E04072,Emery Mitchell,Vice President,Finance,Manufacturing,48,Female,Caucasian,Seattle,United States,6/2/2018,,$231567,36% 
+E00672,Landon Luu,Vice President,IT,Research & Development,31,Male,Asian,Miami,United States,7/12/2015,,$215388,33% 
+E04419,Sophia Ahmed,Sr. Manger,Sales,Speciality Products,30,Female,Asian,Seattle,United States,6/13/2015,,$127972,11% 
+E00467,Sofia Dinh,Operations Engineer,Engineering,Corporate,55,Female,Asian,Chicago,United States,8/4/1995,4/14/2005,$80701,0% 
+E00365,Jonathan Patel,Manager,Marketing,Corporate,28,Male,Asian,Shanghai,China,2/2/2020,,$115417,6% 
+E00306,Piper Patterson,Quality Engineer,Engineering,Corporate,45,Female,Caucasian,Chicago,United States,6/19/2019,,$88045,0% 
+E03292,Cora Evans,Computer Systems Manager,IT,Speciality Products,45,Female,Black,Austin,United States,3/26/2018,,$86478,6% 
+E04779,Cameron Young,Vice President,Engineering,Manufacturing,63,Male,Caucasian,Seattle,United States,1/18/2016,,$180994,39% 
+E00501,Melody Ho,Analyst II,Finance,Research & Development,55,Female,Asian,Columbus,United States,12/2/2007,,$64494,0% 
+E01132,Aiden Bryant,Account Representative,Sales,Manufacturing,47,Male,Black,Columbus,United States,10/21/2002,,$70122,0% 
+E00556,Grayson Walker,Director,Accounting,Manufacturing,29,Male,Caucasian,Seattle,United States,2/19/2017,4/24/2020,$181854,29% 
+E00311,Scarlett Figueroa,Business Partner,Human Resources,Speciality Products,34,Female,Latino,Miami,United States,10/21/2016,,$52811,0% 
+E04567,Madeline Hoang,Systems Analyst,IT,Research & Development,28,Female,Asian,Chengdu,China,10/25/2019,,$50111,0% 
+E04378,Ezra Simmons,Network Administrator,IT,Manufacturing,31,Male,Black,Austin,United States,5/7/2016,,$71192,0% 
+E03251,Ruby Medina,Director,Sales,Manufacturing,50,Female,Latino,Seattle,United States,12/18/2018,,$155351,20% 
+E03167,Luke Zheng,Director,Human Resources,Speciality Products,39,Male,Asian,Beijing,China,11/28/2006,,$161690,29% 
+E03347,Rylee Dinh,Development Engineer,Engineering,Speciality Products,35,Female,Asian,Chongqing,China,2/10/2017,,$60132,0% 
+E03908,Miles Evans,Network Architect,IT,Manufacturing,54,Male,Caucasian,Miami,United States,10/24/1994,,$87216,0% 
+E01351,Leo Owens,Systems Analyst,IT,Corporate,47,Male,Caucasian,Seattle,United States,4/23/2020,,$50069,0% 
+E02681,Caroline Owens,Director,IT,Speciality Products,26,Female,Caucasian,Phoenix,United States,7/26/2021,,$151108,22% 
+E03807,Kennedy Do,Computer Systems Manager,IT,Manufacturing,42,Female,Asian,Phoenix,United States,10/15/2005,,$67398,7% 
+E00422,Jade Acosta,Development Engineer,Engineering,Research & Development,47,Female,Latino,Seattle,United States,8/29/2015,,$68488,0% 
+E00265,Mila Vasquez,Quality Engineer,Engineering,Manufacturing,60,Female,Latino,Columbus,United States,7/16/1998,,$92932,0% 
+E04601,Allison Ayala,Analyst,Finance,Corporate,36,Female,Latino,Austin,United States,6/30/2009,,$43363,0% 
+E04816,Jace Zhang,Service Desk Analyst,IT,Speciality Products,31,Male,Asian,Chengdu,China,2/14/2017,,$95963,0% 
+E02147,Allison Medina,Manager,Finance,Speciality Products,55,Female,Latino,Sao Paulo,Brazil,4/29/2010,,$111038,5% 
+E02914,Maria Wilson,Vice President,Engineering,Research & Development,51,Female,Caucasian,Columbus,United States,6/14/1996,,$200246,34% 
+E03268,Everly Coleman,Vice President,IT,Corporate,48,Female,Caucasian,Columbus,United States,2/18/2015,,$194871,35% 
+E03972,Jordan Gomez,Sr. Analyst,Accounting,Research & Development,58,Male,Latino,Rio de Janerio,Brazil,9/15/1994,10/3/2016,$98769,0% 
+E02189,Isla Chavez,Account Representative,Sales,Research & Development,29,Female,Latino,Rio de Janerio,Brazil,5/19/2018,,$65334,0% 
+E04290,Hannah Gomez,Technical Architect,IT,Manufacturing,25,Female,Latino,Miami,United States,5/11/2021,,$83934,0% 
+E03630,Jacob Davis,Director,Accounting,Research & Development,36,Male,Caucasian,Chicago,United States,9/3/2016,,$150399,28% 
+E00432,Eli Gupta,Director,Human Resources,Research & Development,37,Male,Asian,Beijing,China,5/19/2012,,$160280,19% 
+E03045,Andrew Huynh,Business Partner,Human Resources,Speciality Products,57,Male,Asian,Miami,United States,4/28/1997,10/11/1998,$54051,0% 
+E01924,Anna Gutierrez,Director,Engineering,Research & Development,59,Female,Latino,Sao Paulo,Brazil,4/15/2003,,$150699,29% 
+E04877,Samuel Vega,Analyst II,Marketing,Speciality Products,37,Male,Latino,Miami,United States,3/30/2013,,$69570,0% 
+E02770,Liliana Do,Service Desk Analyst,IT,Manufacturing,30,Female,Asian,Chengdu,China,3/29/2019,,$86774,0% 
+E04590,Isaac Sanders,HRIS Analyst,Human Resources,Manufacturing,49,Male,Caucasian,Miami,United States,3/29/2001,,$57606,0% 
+E01977,Raelynn Gupta,Sr. Manger,Finance,Corporate,48,Female,Asian,Chongqing,China,9/10/2001,,$125730,11% 
+E01378,Genesis Xiong,System Administrator ,IT,Research & Development,51,Female,Asian,Columbus,United States,2/25/2012,,$64170,0% 
+E04224,Lucas Ramos,Sr. Business Partner,Human Resources,Speciality Products,56,Male,Latino,Phoenix,United States,1/21/1998,,$72303,0% 
+E03423,Santiago f Gonzalez,Manager,Sales,Research & Development,36,Male,Latino,Seattle,United States,7/26/2012,,$105891,7% 
+E01584,Henry Zhu,Vice President,Marketing,Speciality Products,38,Male,Asian,Austin,United States,8/25/2021,,$255230,36% 
+E00788,Emily Contreras,Analyst II,Sales,Manufacturing,56,Female,Latino,Sao Paulo,Brazil,6/15/1992,,$59591,0% 
+E00207,Hailey Lai,Vice President,Human Resources,Manufacturing,52,Female,Asian,Chengdu,China,7/23/2012,,$187048,32% 
+E00834,Vivian Guzman,Analyst II,Finance,Speciality Products,53,Female,Latino,Phoenix,United States,2/9/2002,,$58605,0% 
+E04571,Hadley Contreras,Director,Engineering,Corporate,60,Female,Latino,Austin,United States,1/4/2017,,$178502,20% 
+E02652,Nathan Sun,Manager,Accounting,Speciality Products,63,Male,Asian,Shanghai,China,7/29/2015,,$103724,5% 
+E02693,Grace Campos,Director,Engineering,Research & Development,37,Female,Latino,Manaus,Brazil,3/21/2008,,$156277,22% 
+E03359,Autumn Ortiz,Field Engineer,Engineering,Research & Development,30,Female,Latino,Sao Paulo,Brazil,12/17/2017,,$87744,0% 
+E00399,Connor Walker,Analyst II,Finance,Manufacturing,30,Male,Caucasian,Columbus,United States,3/18/2019,,$54714,0% 
+E02971,Mia Wu,Enterprise Architect,IT,Corporate,45,Female,Asian,Beijing,China,8/25/2013,,$99169,0% 
+E03327,Julia Luong,Sr. Manger,Accounting,Research & Development,55,Female,Asian,Chongqing,China,6/20/2006,,$142628,12% 
+E00900,Eleanor Delgado,Sr. Analyst,Marketing,Manufacturing,33,Female,Latino,Sao Paulo,Brazil,4/27/2014,,$75869,0% 
+E00836,Addison Roberts,Network Architect,IT,Manufacturing,65,Female,Caucasian,Seattle,United States,5/14/2018,,$60985,0% 
+E03854,Camila Li,Sr. Manger,IT,Research & Development,60,Female,Asian,Shanghai,China,7/24/2010,,$126911,10% 
+E04729,Ezekiel Fong,Vice President,Sales,Research & Development,56,Male,Asian,Shanghai,China,2/25/2004,,$216949,32% 
+E00360,Dylan Thao,Director,Engineering,Manufacturing,53,Male,Asian,Seattle,United States,10/22/2012,,$168510,29% 
+E02284,Josephine Salazar,Field Engineer,Engineering,Speciality Products,36,Female,Latino,Sao Paulo,Brazil,3/14/2016,,$85870,0% 
+E00181,Genesis Hu,Sr. Analyst,Marketing,Corporate,46,Female,Asian,Beijing,China,1/15/2002,1/2/2003,$86510,0% 
+E04168,Mila Juarez,Manager,Sales,Speciality Products,38,Female,Latino,Sao Paulo,Brazil,9/21/2017,,$119647,9% 
+E02861,Daniel Perry,Enterprise Architect,IT,Research & Development,62,Male,Caucasian,Columbus,United States,4/15/2001,,$80921,0% 
+E01357,Paisley Hunter,Engineering Manager,Engineering,Research & Development,61,Female,Caucasian,Chicago,United States,1/15/2010,,$98110,13% 
+E04387,Everleigh White,Network Architect,IT,Speciality Products,59,Female,Caucasian,Phoenix,United States,10/20/2017,,$86831,0% 
+E03090,Penelope Choi,Technical Architect,IT,Speciality Products,49,Female,Asian,Beijing,China,9/10/2010,,$72826,0% 
+E03591,Piper Sun,Director,Marketing,Manufacturing,64,Female,Asian,Seattle,United States,2/14/2011,,$171217,19% 
+E03328,Lucy Johnson,Manager,IT,Research & Development,57,Female,Caucasian,Columbus,United States,4/27/2020,,$103058,7% 
+E04937,Ian Ngo,Manager,Sales,Speciality Products,52,Male,Asian,Phoenix,United States,8/7/2014,,$117062,7% 
+E00515,Joseph Vazquez,Sr. Manger,Accounting,Speciality Products,40,Male,Latino,Miami,United States,1/23/2019,,$159031,10% 
+E01241,Hadley Guerrero,Sr. Manger,IT,Research & Development,49,Female,Latino,Sao Paulo,Brazil,1/14/2004,,$125086,10% 
+E03255,Jose Brown,System Administrator ,IT,Speciality Products,43,Male,Caucasian,Seattle,United States,4/7/2016,,$67976,0% 
+E01711,Benjamin Ford,Analyst II,Finance,Speciality Products,31,Male,Caucasian,Phoenix,United States,4/22/2021,,$74215,0% 
+E00500,Henry Shah,Director,Accounting,Manufacturing,55,Male,Asian,Chengdu,China,6/11/2010,,$187389,25% 
+E04972,Ivy Daniels,Sr. Manger,Human Resources,Speciality Products,41,Female,Caucasian,Columbus,United States,10/26/2008,,$131841,13% 
+E02728,Thomas Chang,Sr. Analyst,Accounting,Research & Development,34,Male,Asian,Beijing,China,7/26/2011,,$97231,0% 
+E04749,Caroline Phan,Sr. Manger,Finance,Corporate,41,Female,Asian,Austin,United States,3/14/2004,,$155004,12% 
+E02023,Maverick Mehta,Systems Analyst,IT,Manufacturing,40,Male,Asian,Seattle,United States,7/30/2007,,$41859,0% 
+E03166,Austin Edwards,IT Coordinator,IT,Manufacturing,42,Male,Black,Chicago,United States,9/24/2006,,$52733,0% 
+E02599,Daniel Huang,Vice President,Human Resources,Corporate,31,Male,Asian,Columbus,United States,9/3/2015,,$250953,34% 
+E01014,Lucas Phan,Director,Marketing,Research & Development,49,Male,Asian,Chongqing,China,2/19/1999,,$191807,21% 
+E04529,Gabriel Yu,Technical Architect,IT,Speciality Products,42,Male,Asian,Chongqing,China,6/23/2014,,$64677,0% 
+E00085,Mason Watson,Sr. Manger,IT,Corporate,46,Male,Caucasian,Chicago,United States,9/14/2004,,$130274,11% 
+E00632,Angel Chang,Network Architect,IT,Research & Development,37,Male,Asian,Shanghai,China,7/6/2017,,$96331,0% 
+E02108,Madeline Coleman,Sr. Manger,Finance,Research & Development,51,Female,Caucasian,Chicago,United States,4/28/2006,8/16/2007,$150758,13% 
+E03802,Thomas Vazquez,Director,Engineering,Corporate,46,Male,Latino,Sao Paulo,Brazil,7/19/2014,,$173629,21% 
+E03685,Silas Hunter,Solutions Architect,IT,Corporate,55,Male,Black,Chicago,United States,5/4/1998,,$62174,0% 
+E01089,Nicholas Brooks,Analyst II,Accounting,Manufacturing,43,Male,Caucasian,Phoenix,United States,10/20/2017,,$56555,0% 
+E03988,Dominic Thomas,Analyst II,Marketing,Manufacturing,48,Male,Caucasian,Austin,United States,9/28/2005,,$74655,0% 
+E00401,Wesley Adams,System Administrator ,IT,Corporate,48,Male,Caucasian,Seattle,United States,8/11/2003,,$93017,0% 
+E03429,Ian Wu,Sr. Analyst,Marketing,Manufacturing,51,Male,Asian,Chengdu,China,4/14/2012,,$82300,0% 
+E02417,Alice Young,Automation Engineer,Engineering,Research & Development,46,Female,Caucasian,Chicago,United States,1/24/2008,,$91621,0% 
+E00359,Logan Carrillo,Sr. Analyst,Marketing,Research & Development,33,Male,Latino,Miami,United States,11/30/2014,,$91280,0% 
+E02044,Caroline Alexander,Business Partner,Human Resources,Manufacturing,42,Female,Black,Columbus,United States,9/18/2020,,$47071,0% 
+E01479,Serenity Bailey,IT Systems Architect,IT,Manufacturing,55,Female,Caucasian,Chicago,United States,11/21/2011,,$81218,0% 
+E04962,Elena Tan,Vice President,Engineering,Manufacturing,50,Female,Asian,Chongqing,China,10/13/2008,12/11/2019,$181801,40% 
+E02769,Eliza Adams,Account Representative,Sales,Manufacturing,26,Female,Caucasian,Chicago,United States,11/21/2021,,$63137,0% 
+E03893,Alice Xiong,Vice President,Engineering,Manufacturing,55,Female,Asian,Chengdu,China,9/2/2018,,$221465,34% 
+E00553,Isla Yoon,Quality Engineer,Engineering,Research & Development,50,Female,Asian,Austin,United States,5/10/2013,8/4/2019,$79388,0% 
+E03540,Emma Perry,Solutions Architect,IT,Manufacturing,28,Female,Caucasian,Seattle,United States,1/22/2018,,$68176,0% 
+E02769,Riley Marquez,Sr. Manger,Finance,Research & Development,39,Female,Latino,Chicago,United States,10/18/2019,,$122829,11% 
+E03277,Caroline Hu,Sr. Manger,Marketing,Speciality Products,31,Female,Asian,Shanghai,China,8/18/2019,,$126353,12% 
+E04194,Madison Kumar,Director,Accounting,Speciality Products,55,Female,Asian,Chengdu,China,10/17/2010,,$188727,23% 
+E01807,Matthew Lim,Sr. Analyst,Sales,Research & Development,52,Male,Asian,Seattle,United States,2/18/1994,,$99624,0% 
+E01762,Maya Ngo,Manager,Sales,Speciality Products,55,Female,Asian,Columbus,United States,10/20/2012,,$108686,6% 
+E02632,Alice Soto,Analyst,Accounting,Corporate,56,Female,Latino,Manaus,Brazil,4/13/1995,,$50857,0% 
+E04226,Andrew Moore,Operations Engineer,Engineering,Manufacturing,47,Male,Caucasian,Chicago,United States,1/2/2001,,$120628,0% 
+E04101,Olivia Harris,Director,Sales,Speciality Products,63,Female,Caucasian,Columbus,United States,6/14/2020,,$181216,27% 
+E01981,Genesis Banks,Analyst,Finance,Corporate,63,Female,Caucasian,Chicago,United States,3/16/2012,,$46081,0% 
+E02534,Victoria Johnson,Sr. Manger,Accounting,Corporate,55,Female,Caucasian,Columbus,United States,5/28/2004,,$159885,12% 
+E01238,Eloise Griffin,Director,Sales,Manufacturing,55,Female,Caucasian,Austin,United States,10/29/1995,,$153271,15% 
+E01118,Roman Yang,Manager,Human Resources,Manufacturing,42,Male,Asian,Phoenix,United States,12/12/2009,,$114242,8% 
+E04041,Clara Huynh,IT Coordinator,IT,Speciality Products,39,Female,Asian,Shanghai,China,11/18/2020,,$48415,0% 
+E04308,Kai Flores,Development Engineer,Engineering,Manufacturing,35,Male,Latino,Seattle,United States,5/23/2017,,$65566,0% 
+E01052,Jaxson Dinh,Sr. Manger,Marketing,Research & Development,45,Male,Asian,Shanghai,China,5/3/2001,12/26/2011,$147752,12% 
+E04165,Sophie Vang,Sr. Manger,Marketing,Manufacturing,25,Female,Asian,Chongqing,China,9/14/2021,,$136810,14% 
+E02295,Axel Jordan,Analyst,Sales,Corporate,47,Male,Caucasian,Chicago,United States,2/28/2013,,$54635,0% 
+E04546,Jade Hunter,Cloud Infrastructure Architect,IT,Corporate,42,Female,Caucasian,Columbus,United States,2/5/2020,,$96636,0% 
+E04217,Lydia Williams,System Administrator ,IT,Manufacturing,35,Female,Black,Chicago,United States,10/29/2014,,$91592,0% 
+E00650,Emery Chang,Business Partner,Human Resources,Research & Development,45,Female,Asian,Chengdu,China,8/17/2000,,$55563,0% 
+E00344,Savannah He,Director,IT,Research & Development,52,Female,Asian,Beijing,China,2/14/1996,,$159724,23% 
+E04645,Elias Ahmed,Vice President,Marketing,Corporate,57,Male,Asian,Chicago,United States,8/4/2017,,$183190,36% 
+E03880,Samantha Woods,Analyst,Accounting,Speciality Products,56,Female,Caucasian,Phoenix,United States,12/25/2019,,$54829,0% 
+E02730,Axel Soto,Quality Engineer,Engineering,Corporate,46,Male,Latino,Rio de Janerio,Brazil,4/22/2005,,$96639,0% 
+E04517,Amelia Choi,Manager,Marketing,Speciality Products,43,Female,Asian,Miami,United States,6/11/2006,,$117278,9% 
+E00965,Jacob Khan,Computer Systems Manager,IT,Speciality Products,53,Male,Asian,Shanghai,China,2/9/2008,,$84193,9% 
+E04639,Luna Taylor,Network Administrator,IT,Manufacturing,47,Female,Caucasian,Seattle,United States,7/28/2018,,$87806,0% 
+E00465,Dominic Parker,Test Engineer,Engineering,Research & Development,62,Male,Caucasian,Seattle,United States,10/4/2011,,$63959,0% 
+E03058,Angel Xiong,Vice President,IT,Research & Development,35,Male,Asian,Shanghai,China,6/11/2015,,$234723,36% 
+E02337,Emma Cao,Analyst,Accounting,Corporate,27,Female,Asian,Chongqing,China,8/24/2019,,$50809,0% 
+E04927,Ezekiel Bryant,Sr. Analyst,Finance,Manufacturing,55,Male,Caucasian,Miami,United States,7/19/2002,,$77396,0% 
+E03799,Natalie Hwang,Sr. Analyst,Finance,Speciality Products,63,Female,Asian,Phoenix,United States,12/31/1999,,$89523,0% 
+E04538,Adeline Yang,Cloud Infrastructure Architect,IT,Corporate,53,Female,Asian,Chongqing,China,7/20/2011,,$86173,0% 
+E02633,Allison Roberts,Vice President,Sales,Manufacturing,54,Female,Black,Columbus,United States,8/19/2000,,$222224,38% 
+E02965,Andrew Do,Sr. Manger,Finance,Research & Development,43,Male,Asian,Seattle,United States,4/17/2021,,$146140,15% 
+E04345,Eliana Grant,Engineering Manager,Engineering,Speciality Products,64,Female,Caucasian,Chicago,United States,6/20/1994,,$109456,10% 
+E02895,Mila Soto,Director,Finance,Research & Development,65,Female,Latino,Manaus,Brazil,10/7/2008,,$170221,15% 
+E01132,Gabriella Johnson,Computer Systems Manager,IT,Research & Development,42,Female,Caucasian,Seattle,United States,3/1/2006,8/8/2015,$97433,5% 
+E00758,Jonathan Khan,Account Representative,Sales,Manufacturing,35,Male,Asian,Shanghai,China,8/30/2013,,$59646,0% 
+E03750,Elias Dang,Director,Engineering,Speciality Products,64,Male,Asian,Chengdu,China,8/29/1995,,$158787,18% 
+E00144,Theodore Ngo,Controls Engineer,Engineering,Research & Development,55,Male,Asian,Beijing,China,4/29/2018,,$83378,0% 
+E02943,Bella Lopez,Sr. Analyst,Marketing,Corporate,32,Female,Latino,Chicago,United States,11/12/2013,,$88895,0% 
+E03901,Luca Truong,Director,Marketing,Corporate,45,Male,Asian,Chongqing,China,12/11/2004,,$168846,24% 
+E03461,Nathan Lau,Business Partner,Human Resources,Research & Development,35,Male,Asian,Austin,United States,2/22/2011,7/12/2020,$43336,0% 
+E03490,Henry Campos,Sr. Manger,Human Resources,Corporate,38,Male,Latino,Phoenix,United States,9/27/2009,,$127801,15% 
+E04466,Connor Bell,Network Administrator,IT,Corporate,54,Male,Black,Austin,United States,4/1/2000,,$76352,0% 
+E03226,Angel Stewart,Vice President,Finance,Corporate,28,Male,Caucasian,Seattle,United States,6/22/2019,,$250767,38% 
+E04607,Landon Brown,Vice President,Marketing,Corporate,26,Male,Caucasian,Columbus,United States,9/27/2020,,$223055,30% 
+E02678,Nicholas Rivera,Director,Engineering,Corporate,45,Male,Latino,Sao Paulo,Brazil,4/13/2007,,$189680,23% 
+E02190,Gabriel Carter,Test Engineer,Engineering,Manufacturing,57,Male,Caucasian,Columbus,United States,7/18/2018,,$71167,0% 
+E00747,Leilani Baker,Technical Architect,IT,Speciality Products,59,Female,Caucasian,Seattle,United States,4/4/2010,,$76027,0% 
+E00268,Ian Flores,Director,Engineering,Corporate,48,Male,Latino,Rio de Janerio,Brazil,12/10/2019,,$183113,24% 
+E01416,Hudson Thompson,Analyst II,Accounting,Manufacturing,30,Male,Black,Phoenix,United States,10/20/2020,,$67753,0% 
+E01524,Ian Miller,Computer Systems Manager,IT,Corporate,31,Male,Black,Austin,United States,10/13/2016,,$63744,8% 
+E03849,Harper Chin,Quality Engineer,Engineering,Manufacturing,50,Female,Asian,Shanghai,China,7/9/2002,,$92209,0% 
+E02801,Santiago f Brooks,Sr. Manger,Sales,Corporate,51,Male,Black,Phoenix,United States,9/1/2000,,$157487,12% 
+E04155,Dylan Dominguez,Sr. Analyst,Marketing,Research & Development,42,Male,Latino,Rio de Janerio,Brazil,4/7/2015,,$99697,0% 
+E01952,Everett Lee,Network Administrator,IT,Research & Development,45,Male,Asian,Columbus,United States,2/26/2010,,$90770,0% 
+E00116,Madelyn Mehta,Analyst,Sales,Speciality Products,64,Female,Asian,Phoenix,United States,1/28/2005,,$55369,0% 
+E04811,Athena Vasquez,Field Engineer,Engineering,Speciality Products,59,Female,Latino,Rio de Janerio,Brazil,9/16/2014,,$69578,0% 
+E00624,William Watson,Director,Accounting,Speciality Products,41,Male,Caucasian,Miami,United States,6/4/2013,,$167526,26% 
+E03404,Everleigh Nunez,Field Engineer,Engineering,Speciality Products,42,Female,Latino,Manaus,Brazil,2/5/2021,,$65507,0% 
+E01845,Leo Fernandez,Manager,Finance,Research & Development,54,Male,Latino,Sao Paulo,Brazil,4/28/1998,5/15/2004,$108268,9% 
+E04784,Joshua Lin,Technical Architect,IT,Research & Development,37,Male,Asian,Beijing,China,2/5/2016,,$80055,0% 
+E00145,Alexander Rivera,Sr. Analyst,Sales,Research & Development,58,Male,Latino,Manaus,Brazil,4/27/2009,,$76802,0% 
+E00218,David Desai,Vice President,Sales,Speciality Products,47,Male,Asian,Austin,United States,11/22/2016,,$253249,31% 
+E02185,Aubrey Yoon,Sr. Business Partner,Human Resources,Research & Development,60,Female,Asian,Chongqing,China,11/11/2005,,$78388,0% 
+E01070,Grayson Brown,Vice President,IT,Corporate,38,Male,Caucasian,Chicago,United States,6/22/2016,,$249870,34% 
+E03807,Noah Chen,Sr. Manger,Marketing,Manufacturing,63,Male,Asian,Beijing,China,3/1/2015,,$148321,15% 
+E00784,Ella Nguyen,Service Desk Analyst,IT,Corporate,60,Female,Asian,Chongqing,China,2/10/2004,,$90258,0% 
+E04925,Athena Jordan,System Administrator ,IT,Manufacturing,42,Female,Black,Seattle,United States,2/19/2011,,$72486,0% 
+E04448,Adrian Ruiz,Sr. Analyst,Finance,Corporate,34,Male,Latino,Sao Paulo,Brazil,9/4/2014,8/11/2017,$95499,0% 
+E04817,Zoe Sanchez,Sr. Analyst,Accounting,Research & Development,53,Female,Latino,Sao Paulo,Brazil,12/23/2004,,$90212,0% 
+E00325,Jameson Chen,Vice President,Marketing,Research & Development,39,Male,Asian,Shanghai,China,12/5/2019,,$254057,39% 
+E00403,Liliana Soto,Business Partner,Human Resources,Manufacturing,58,Female,Latino,Austin,United States,10/12/2010,,$43001,0% 
+E00436,Lincoln Reyes,Computer Systems Manager,IT,Manufacturing,60,Male,Latino,Seattle,United States,8/3/1998,,$85120,9% 
+E04358,Grayson Soto,Business Partner,Human Resources,Manufacturing,34,Male,Latino,Columbus,United States,8/3/2015,,$52200,0% 
+E04662,Julia Morris,Sr. Manger,Human Resources,Corporate,60,Female,Caucasian,Phoenix,United States,10/18/2008,,$150855,11% 
+E01496,Ava Ortiz,Enterprise Architect,IT,Manufacturing,53,Female,Latino,Columbus,United States,7/20/2004,,$65702,0% 
+E01870,Carson Chau,Director,Finance,Corporate,58,Male,Asian,Chongqing,China,10/12/2007,,$162038,24% 
+E03971,Lillian Chen,Sr. Manger,Marketing,Research & Development,25,Female,Asian,Columbus,United States,4/9/2020,,$157057,10% 
+E03616,Josiah Lewis,Manager,IT,Research & Development,46,Male,Caucasian,Austin,United States,8/11/2021,,$127559,10% 
+E00153,Claire Jones,Field Engineer,Engineering,Corporate,39,Female,Caucasian,Seattle,United States,3/12/2019,,$62644,0% 
+E02313,Jeremiah Lu,Network Architect,IT,Manufacturing,50,Male,Asian,Shanghai,China,3/6/2001,,$73907,0% 
+E02960,Nova Hill,Sr. Analyst,Accounting,Manufacturing,56,Female,Caucasian,Chicago,United States,3/10/2018,,$90040,0% 
+E00096,Peyton Cruz,Development Engineer,Engineering,Manufacturing,30,Female,Latino,Sao Paulo,Brazil,5/26/2016,,$91134,0% 
+E02140,Naomi Zhao,Vice President,Human Resources,Speciality Products,45,Female,Asian,Miami,United States,9/22/2021,,$201396,32% 
+E00826,Rylee Bui,Analyst,Accounting,Corporate,55,Female,Asian,Chongqing,China,12/22/2011,,$54733,0% 
+E03881,Andrew Reed,System Administrator ,IT,Corporate,28,Male,Black,Miami,United States,6/17/2019,4/11/2022,$65341,0% 
+E02604,Brooklyn Collins,Sr. Manger,Finance,Corporate,59,Female,Black,Austin,United States,10/27/2018,,$139208,11% 
+E02613,John Jung,Sr. Analyst,Sales,Speciality Products,63,Male,Asian,Shanghai,China,3/12/2018,,$73200,0% 
+E00864,Samantha Aguilar,Manager,Accounting,Speciality Products,46,Female,Latino,Seattle,United States,4/24/2010,,$102636,6% 
+E01760,Madeline Acosta,Sr. Account Representative,Sales,Speciality Products,26,Female,Latino,Sao Paulo,Brazil,2/9/2021,,$87427,0% 
+E03223,Ethan Joseph,IT Coordinator,IT,Research & Development,45,Male,Caucasian,Columbus,United States,5/28/2018,,$49219,0% 
+E01262,Miles Mehta,Manager,Finance,Manufacturing,50,Male,Asian,Chongqing,China,5/19/2018,,$106437,7% 
+E01075,Joshua Juarez,Analyst II,Finance,Manufacturing,46,Male,Latino,Sao Paulo,Brazil,5/5/2015,,$64364,0% 
+E00364,Matthew Howard,Director,Human Resources,Manufacturing,50,Male,Caucasian,Columbus,United States,10/17/2021,,$172180,30% 
+E04108,Jade Figueroa,Sr. Analyst,Sales,Manufacturing,33,Female,Latino,Rio de Janerio,Brazil,5/14/2012,,$88343,0% 
+E02917,Everett Morales,Solutions Architect,IT,Speciality Products,57,Male,Latino,Rio de Janerio,Brazil,7/10/2014,,$66649,0% 
+E03720,Genesis Hunter,Manager,Finance,Corporate,48,Female,Caucasian,Chicago,United States,4/22/1999,,$102847,5% 
+E03393,Henry Figueroa,Sr. Manger,Finance,Manufacturing,46,Male,Latino,Manaus,Brazil,7/19/2010,,$134881,15% 
+E02977,Nicholas Song,Analyst II,Marketing,Manufacturing,52,Male,Asian,Chengdu,China,5/23/1999,11/30/2015,$68807,0% 
+E03371,Jack Alexander,Vice President,IT,Manufacturing,56,Male,Caucasian,Miami,United States,5/29/2006,,$228822,36% 
+E02531,Jameson Foster,Analyst,Marketing,Manufacturing,28,Male,Caucasian,Columbus,United States,7/18/2021,,$43391,0% 
+E02473,Leonardo Lo,Quality Engineer,Engineering,Speciality Products,29,Male,Asian,Chongqing,China,11/15/2021,,$91782,0% 
+E02468,Ella Huang,Vice President,Marketing,Corporate,45,Female,Asian,Chicago,United States,2/28/2016,,$211637,31% 
+E01499,Liam Jordan,Computer Systems Manager,IT,Manufacturing,28,Male,Caucasian,Phoenix,United States,8/8/2020,,$73255,9% 
+E03697,Isaac Woods,Manager,Sales,Corporate,28,Male,Caucasian,Miami,United States,1/8/2021,,$108826,10% 
+E00593,Luke Wilson,Solutions Architect,IT,Speciality Products,34,Male,Caucasian,Miami,United States,5/24/2016,,$94352,0% 
+E01103,Lyla Alvarez,IT Systems Architect,IT,Research & Development,55,Female,Latino,Phoenix,United States,8/30/1994,,$73955,0% 
+E03889,Caleb Flores,Manager,Human Resources,Manufacturing,34,Male,Latino,Rio de Janerio,Brazil,8/13/2013,,$113909,6% 
+E01958,Angel Lin,Network Administrator,IT,Manufacturing,27,Male,Asian,Chicago,United States,12/24/2020,,$92321,0% 
+E01870,Easton Moore,Computer Systems Manager,IT,Research & Development,52,Male,Caucasian,Seattle,United States,5/23/2013,,$99557,9% 
+E01167,Kinsley Collins,Automation Engineer,Engineering,Speciality Products,28,Female,Caucasian,Phoenix,United States,11/14/2018,,$115854,0% 
+E00099,Brooklyn Salazar,IT Systems Architect,IT,Manufacturing,44,Female,Latino,Austin,United States,3/1/2011,,$82462,0% 
+E00044,Scarlett Jenkins,Vice President,IT,Research & Development,53,Female,Caucasian,Miami,United States,11/9/2011,,$198473,32% 
+E00711,Melody Chin,Sr. Manger,Finance,Corporate,43,Female,Asian,Chicago,United States,10/15/2006,,$153492,11% 
+E04795,Eloise Alexander,Vice President,Human Resources,Corporate,28,Female,Black,Seattle,United States,1/21/2018,,$208210,30% 
+E03912,Carter Turner,Sr. Analyst,Marketing,Corporate,33,Male,Caucasian,Phoenix,United States,11/17/2015,,$91632,0% 
+E02103,Andrew Ma,HRIS Analyst,Human Resources,Corporate,31,Male,Asian,Chongqing,China,9/24/2017,,$71755,0% 
+E04213,Hailey Xi,Manager,Accounting,Corporate,52,Female,Asian,Chongqing,China,11/19/2021,,$111006,8% 
+E04756,Aiden Le,Cloud Infrastructure Architect,IT,Corporate,55,Male,Asian,Austin,United States,12/24/1994,,$99774,0% 
+E04114,Christopher Lim,Director,IT,Research & Development,55,Male,Asian,Shanghai,China,3/13/2007,,$184648,24% 
+E01423,James Castillo,Vice President,IT,Manufacturing,51,Male,Latino,Manaus,Brazil,7/19/2001,,$247874,33% 
+E03181,Greyson Dang,Development Engineer,Engineering,Manufacturing,60,Male,Asian,Beijing,China,5/11/2009,,$62239,0% 
+E03305,Hannah King,Manager,Accounting,Speciality Products,31,Female,Caucasian,Chicago,United States,10/7/2014,,$114911,7% 
+E00703,Wesley Dominguez,Engineering Manager,Engineering,Corporate,45,Male,Latino,Chicago,United States,4/27/2018,,$115490,12% 
+E04403,Dominic Hu,Manager,Accounting,Speciality Products,34,Male,Asian,Shanghai,China,2/13/2012,,$118708,7% 
+E00103,Nora Park,Director,Accounting,Speciality Products,29,Female,Asian,Columbus,United States,6/28/2017,,$197649,20% 
+E04487,Audrey Hwang,Sr. Analyst,Accounting,Speciality Products,45,Female,Asian,Beijing,China,6/17/2020,,$89841,0% 
+E01194,Ella Jenkins,Analyst II,Finance,Speciality Products,52,Female,Caucasian,Phoenix,United States,12/20/2019,,$61026,0% 
+E02179,Peyton Owens,Controls Engineer,Engineering,Speciality Products,48,Female,Caucasian,Chicago,United States,9/25/2014,,$96693,0% 
+E04242,Alice Lopez,Test Engineer,Engineering,Speciality Products,48,Female,Latino,Seattle,United States,6/27/2009,,$82907,0% 
+E01371,Dominic Le,Vice President,Marketing,Corporate,41,Male,Asian,Chongqing,China,10/4/2014,,$257194,35% 
+E03065,Ezra Ortiz,Quality Engineer,Engineering,Research & Development,41,Male,Latino,Miami,United States,1/21/2012,,$94658,0% 
+E01377,Grayson Luu,Quality Engineer,Engineering,Research & Development,55,Male,Asian,Shanghai,China,4/30/2011,,$89419,0% 
+E03097,Brooks Stewart,HRIS Analyst,Human Resources,Manufacturing,45,Male,Black,Columbus,United States,12/19/2015,,$51983,0% 
+E01668,Naomi Xi,Director,Finance,Corporate,53,Female,Asian,Chongqing,China,2/17/2002,,$179494,20% 
+E03354,Silas Estrada,IT Systems Architect,IT,Corporate,49,Male,Latino,Rio de Janerio,Brazil,6/24/2016,,$68426,0% 
+E02088,Skylar Ayala,Sr. Manger,Finance,Corporate,55,Female,Latino,Phoenix,United States,2/6/2017,,$144986,12% 
+E03980,Lydia Huynh,Account Representative,Sales,Speciality Products,45,Female,Asian,Chicago,United States,8/16/2000,,$60113,0% 
+E00972,Hazel Cortez,HRIS Analyst,Human Resources,Research & Development,52,Female,Latino,Sao Paulo,Brazil,4/18/2021,,$50548,0% 
+E00824,Everleigh Adams,Analyst II,Marketing,Manufacturing,33,Female,Caucasian,Chicago,United States,3/14/2020,,$68846,0% 
+E04359,Layla Salazar,Solutions Architect,IT,Corporate,59,Female,Latino,Seattle,United States,3/19/2014,,$90901,0% 
+E03113,Willow Chen,Manager,Accounting,Corporate,50,Female,Asian,Austin,United States,9/3/2012,,$102033,8% 
+E01488,Penelope Griffin,Director,Sales,Manufacturing,61,Female,Caucasian,Seattle,United States,1/23/2021,,$151783,26% 
+E01787,Lillian Romero,Director,Engineering,Corporate,27,Female,Latino,Austin,United States,12/7/2018,,$170164,17% 
+E03550,Stella Wu,Sr. Manger,Marketing,Speciality Products,35,Female,Asian,Phoenix,United States,2/20/2014,,$155905,14% 
+E01052,Parker Vang,Analyst,Sales,Corporate,40,Male,Asian,Miami,United States,12/17/2016,,$50733,0% 
+E04799,Mila Roberts,Sr. Business Partner,Human Resources,Corporate,30,Female,Caucasian,Phoenix,United States,1/26/2017,,$88663,0% 
+E03402,Isaac Liu,Field Engineer,Engineering,Manufacturing,60,Male,Asian,Chongqing,China,10/13/1992,,$88213,0% 
+E04128,Jacob Doan,Analyst II,Sales,Speciality Products,55,Male,Asian,Miami,United States,8/2/2021,,$67130,0% 
+E00013,Raelynn Ma,Sr. Analyst,Finance,Speciality Products,33,Female,Asian,Miami,United States,10/8/2015,,$94876,0% 
+E03114,Jameson Juarez,Development Engineer,Engineering,Speciality Products,62,Male,Latino,Miami,United States,10/9/1994,,$98230,0% 
+E04004,Everleigh Shah,Test Engineer,Engineering,Research & Development,36,Female,Asian,Columbus,United States,12/14/2018,,$96757,0% 
+E04472,Alexander Foster,Analyst II,Marketing,Manufacturing,35,Male,Black,Columbus,United States,7/3/2020,,$51513,0% 
+E00161,Ryan Ha,Vice President,Marketing,Corporate,60,Male,Asian,Miami,United States,1/27/2007,,$234311,37% 
+E04417,Chloe Salazar,Sr. Manger,Human Resources,Speciality Products,45,Female,Latino,Seattle,United States,5/22/2011,,$152353,14% 
+E04536,Layla Scott,Sr. Manger,Accounting,Speciality Products,48,Female,Caucasian,Phoenix,United States,7/30/2010,,$124774,12% 
+E02534,Leah Khan,Director,Marketing,Corporate,36,Female,Asian,Chongqing,China,9/13/2010,,$157070,28% 
+E02857,Mason Jimenez,Sr. Manger,Finance,Speciality Products,44,Male,Latino,Austin,United States,8/8/2019,5/18/2022,$130133,15% 
+E03059,Hailey Dang,Manager,Marketing,Manufacturing,64,Female,Asian,Shanghai,China,9/21/2019,,$108780,6% 
+E02477,Amelia Bui,Director,Engineering,Speciality Products,46,Female,Asian,Chengdu,China,10/21/2020,,$151853,16% 
+E00022,Elena Her,Account Representative,Sales,Manufacturing,62,Female,Asian,Chongqing,China,9/17/2006,,$64669,0% 
+E03370,Ian Cortez,Analyst II,Marketing,Research & Development,61,Male,Latino,Rio de Janerio,Brazil,4/30/2008,,$69352,0% 
+E00555,Christian Ali,Analyst II,Marketing,Research & Development,65,Male,Asian,Chongqing,China,10/17/2001,,$74631,0% 
+E03160,Carter Ortiz,Quality Engineer,Engineering,Speciality Products,54,Male,Latino,Sao Paulo,Brazil,4/29/2012,,$96441,0% 
+E03919,Grayson Chan,Engineering Manager,Engineering,Speciality Products,46,Male,Asian,Chengdu,China,10/20/2011,,$114250,14% 
+E01724,Nolan Molina,Computer Systems Manager,IT,Corporate,36,Male,Latino,Manaus,Brazil,12/27/2020,,$70165,7% 
+E04087,Adam Kaur,Manager,IT,Corporate,60,Male,Asian,Chengdu,China,1/29/2000,,$109059,7% 
+E02856,Amelia Kaur,Operations Engineer,Engineering,Research & Development,30,Female,Asian,Columbus,United States,11/14/2015,,$77442,0% 
+E03805,Autumn Gonzales,Analyst II,Sales,Corporate,34,Female,Latino,Manaus,Brazil,6/6/2012,,$72126,0% 
+E00319,Ezra Wilson,Service Desk Analyst,IT,Manufacturing,55,Male,Caucasian,Miami,United States,10/18/2013,,$70334,0% 
+E01090,Jacob Cheng,Quality Engineer,Engineering,Research & Development,59,Male,Asian,Miami,United States,12/23/2009,,$78006,0% 
+E04323,Melody Valdez,Director,IT,Manufacturing,28,Female,Latino,Miami,United States,1/25/2021,5/18/2021,$160385,23% 
+E02687,Caroline Nelson,Vice President,Finance,Corporate,36,Female,Caucasian,Chicago,United States,1/11/2014,,$202323,39% 
+E01407,Ellie Guerrero,Sr. Manger,Human Resources,Corporate,29,Female,Latino,Manaus,Brazil,7/13/2020,,$141555,11% 
+E02748,Genesis Zhu,Director,Finance,Speciality Products,34,Female,Asian,Seattle,United States,7/20/2020,,$184960,18% 
+E01995,Jonathan Ho,Vice President,IT,Manufacturing,37,Male,Asian,Columbus,United States,6/25/2011,,$221592,31% 
+E01714,Savannah Park,HRIS Analyst,Human Resources,Manufacturing,44,Female,Asian,Seattle,United States,1/28/2009,,$53301,0% 
+E04491,Nathan Chan,Cloud Infrastructure Architect,IT,Corporate,45,Male,Asian,Seattle,United States,3/2/2000,,$91276,0% 
+E01076,Sofia Vu,Sr. Manger,Human Resources,Research & Development,52,Female,Asian,Austin,United States,9/5/2017,,$140042,13% 
+E04131,Ruby Choi,Analyst,Accounting,Manufacturing,40,Female,Asian,Columbus,United States,12/6/2018,,$57225,0% 
+E02843,Lily Pena,Manager,Human Resources,Speciality Products,55,Female,Latino,Miami,United States,2/24/2010,,$102839,5% 
+E03758,Liam Zhang,Director,Marketing,Research & Development,29,Male,Asian,Chicago,United States,9/15/2021,4/10/2022,$199783,21% 
+E02063,Ian Gutierrez,Sr. Business Partner,Human Resources,Research & Development,32,Male,Latino,Rio de Janerio,Brazil,4/9/2021,,$70980,0% 
+E00638,David Simmons,Manager,Marketing,Corporate,51,Male,Caucasian,Phoenix,United States,1/26/1997,,$104431,7% 
+E03571,Lincoln Henderson,Business Partner,Human Resources,Speciality Products,28,Male,Caucasian,Chicago,United States,6/27/2021,,$48510,0% 
+E01820,Nathan Miller,Quality Engineer,Engineering,Speciality Products,27,Male,Black,Miami,United States,5/28/2019,1/7/2021,$70110,0% 
+E01712,James Singh,Director,Marketing,Corporate,45,Male,Asian,Chongqing,China,3/12/2008,,$186138,28% 
+E00184,Kayden Ortega,Analyst,Accounting,Manufacturing,58,Male,Latino,Rio de Janerio,Brazil,4/19/2010,,$56350,0% 
+E02706,Lucy Figueroa,Sr. Manger,Finance,Research & Development,45,Female,Latino,Columbus,United States,1/10/2016,,$149761,12% 
+E02899,Joshua Cortez,Sr. Manger,Finance,Corporate,44,Male,Latino,Manaus,Brazil,8/11/2007,,$126277,13% 
+E02478,Alexander Morris,Manager,Sales,Speciality Products,33,Male,Caucasian,Phoenix,United States,6/21/2013,,$119631,6% 
+E04170,Grayson Chin,Vice President,IT,Research & Development,26,Male,Asian,Austin,United States,5/9/2020,,$256561,39% 
+E00929,Allison Espinoza,Solutions Architect,IT,Speciality Products,45,Female,Latino,Miami,United States,4/16/2020,,$66958,0% 
+E00530,Naomi Chu,Sr. Manger,Sales,Manufacturing,46,Female,Asian,Chongqing,China,2/29/2004,,$158897,10% 
+E03824,Jameson Martin,Technical Architect,IT,Corporate,37,Male,Caucasian,Phoenix,United States,2/15/2008,,$71695,0% 
+E02492,Sebastian Gupta,Sr. Analyst,Marketing,Corporate,40,Male,Asian,Chongqing,China,9/22/2014,5/9/2019,$73779,0% 
+E01733,Eloise Pham,Manager,Sales,Speciality Products,45,Female,Asian,Shanghai,China,10/20/2011,,$123640,7% 
+E02857,Valentina Davis,Analyst,Sales,Speciality Products,33,Female,Caucasian,Miami,United States,4/13/2014,,$46878,0% 
+E04938,Brooklyn Daniels,Analyst,Marketing,Speciality Products,64,Female,Caucasian,Miami,United States,2/10/2003,,$57032,0% 
+E04952,Paisley Gomez,Sr. Analyst,Sales,Manufacturing,57,Female,Latino,Rio de Janerio,Brazil,10/2/2007,,$98150,0% 
+E02420,Madison Li,Director,Marketing,Manufacturing,35,Female,Asian,Beijing,China,3/6/2017,9/22/2017,$171426,15% 
+E01639,Everleigh Simmons,Analyst,Finance,Manufacturing,55,Female,Caucasian,Chicago,United States,4/16/2021,,$48266,0% 
+E03947,Logan Soto,Vice President,Finance,Research & Development,36,Male,Latino,Columbus,United States,8/18/2018,,$223404,32% 
+E04535,Charlotte Vo,System Administrator ,IT,Speciality Products,57,Female,Asian,Seattle,United States,1/10/2014,,$74854,0% 
+E00380,Alice Thompson,Vice President,Accounting,Speciality Products,48,Female,Caucasian,Seattle,United States,4/25/2007,,$217783,36% 
+E01432,Peyton Garza,Systems Analyst,IT,Manufacturing,53,Female,Latino,Manaus,Brazil,8/15/2004,,$44735,0% 
+E02628,Nora Nelson,Analyst II,Finance,Manufacturing,41,Female,Caucasian,Columbus,United States,1/9/2007,,$50685,0% 
+E03578,Maverick Li,Analyst II,Sales,Research & Development,34,Male,Asian,Austin,United States,3/10/2018,,$58993,0% 
+E03563,Ian Barnes,Operations Engineer,Engineering,Corporate,47,Male,Caucasian,Miami,United States,6/8/2020,2/2/2021,$115765,0% 
+E02781,Athena Vu,Director,Accounting,Manufacturing,63,Female,Asian,Miami,United States,3/6/2007,,$193044,15% 
+E04739,Ruby Washington,Analyst,Marketing,Research & Development,65,Female,Black,Seattle,United States,6/17/2011,6/9/2015,$56686,0% 
+E02665,Bella Butler,Sr. Manger,Finance,Manufacturing,33,Female,Black,Seattle,United States,10/25/2019,,$131652,11% 
+E04132,Kinsley Henry,Director,Marketing,Manufacturing,45,Female,Black,Miami,United States,2/29/2008,,$150577,25% 
+E00276,Kennedy Romero,Engineering Manager,Engineering,Research & Development,37,Female,Latino,Rio de Janerio,Brazil,12/27/2018,,$87359,11% 
+E04277,Zoe Do,Analyst II,Sales,Speciality Products,60,Female,Asian,Beijing,China,1/8/2014,,$51877,0% 
+E03890,Everett Khan,Solutions Architect,IT,Manufacturing,43,Male,Asian,Chicago,United States,1/18/2017,,$86417,0% 
+E02012,Anna Han,System Administrator ,IT,Research & Development,65,Female,Asian,Austin,United States,5/8/2003,,$96548,0% 
+E02881,Leilani Sharma,Sr. Analyst,Accounting,Manufacturing,43,Female,Asian,Chengdu,China,1/23/2014,,$92940,0% 
+E03750,Jordan Cho,Analyst II,Accounting,Speciality Products,28,Male,Asian,Phoenix,United States,8/24/2018,,$61410,0% 
+E00605,Nova Williams,Manager,Finance,Speciality Products,61,Female,Black,Miami,United States,4/25/2010,,$110302,6% 
+E04641,Scarlett Hill,Director,Engineering,Speciality Products,45,Female,Black,Columbus,United States,4/22/2018,6/20/2022,$187205,24% 
+E01019,Dominic Scott,Sr. Analyst,Sales,Corporate,45,Male,Caucasian,Phoenix,United States,3/16/2011,,$81687,0% 
+E01519,Anthony Marquez,Vice President,IT,Speciality Products,54,Male,Latino,Columbus,United States,8/15/2009,,$241083,39% 
+E03694,Elena Patterson,Vice President,Finance,Speciality Products,38,Female,Black,Chicago,United States,11/9/2018,,$223805,36% 
+E01123,Madison Nelson,Director,Accounting,Corporate,27,Female,Caucasian,Miami,United States,7/16/2021,,$161759,16% 
+E01366,William Walker,Computer Systems Manager,IT,Research & Development,40,Male,Black,Columbus,United States,2/24/2019,3/8/2021,$95899,10% 
+E04005,Lincoln Wong,Sr. Analyst,Finance,Corporate,49,Male,Asian,Columbus,United States,6/7/2019,,$80700,0% 
+E02770,James Huang,Manager,Human Resources,Speciality Products,54,Male,Asian,Beijing,China,3/11/1997,,$128136,5% 
+E04018,Emery Ford,Analyst II,Marketing,Corporate,39,Female,Caucasian,Austin,United States,4/18/2017,,$58745,0% 
+E01591,Paisley Trinh,Technical Architect,IT,Corporate,57,Female,Asian,Austin,United States,5/4/1992,12/18/1994,$76202,0% 
+E04940,Hudson Williams,Vice President,Sales,Speciality Products,36,Male,Black,Austin,United States,3/19/2018,,$195200,36% 
+E03465,Harper Phan,Analyst II,Finance,Manufacturing,45,Female,Asian,Shanghai,China,12/7/2016,,$71454,0% 
+E03870,Madeline Allen,Cloud Infrastructure Architect,IT,Manufacturing,30,Female,Caucasian,Seattle,United States,2/3/2020,,$94652,0% 
+E01927,Charles Moore,Technical Architect,IT,Manufacturing,34,Male,Black,Miami,United States,2/16/2016,,$63411,0% 
+E03064,Lincoln Fong,Analyst II,Sales,Speciality Products,31,Male,Asian,Chongqing,China,2/17/2020,5/1/2021,$67171,0% 
+E01883,Isla Guzman,Sr. Manger,Accounting,Speciality Products,28,Female,Latino,Rio de Janerio,Brazil,7/6/2019,,$152036,15% 
+E03984,Hailey Foster,Controls Engineer,Engineering,Manufacturing,55,Female,Black,Chicago,United States,3/21/2021,,$95562,0% 
+E00446,Hudson Hill,Sr. Analyst,Sales,Research & Development,30,Male,Caucasian,Austin,United States,11/4/2019,,$96092,0% 
+E02825,Wyatt Li,Vice President,Engineering,Manufacturing,63,Male,Asian,Chicago,United States,6/3/2013,,$254289,39% 
+E04174,Maverick Henry,Computer Systems Manager,IT,Research & Development,26,Male,Caucasian,Chicago,United States,7/10/2019,,$69110,5% 
+E01899,Xavier Jackson,Vice President,Marketing,Speciality Products,52,Male,Caucasian,Miami,United States,6/11/2002,,$236314,34% 
+E02562,Christian Medina,Analyst,Marketing,Corporate,51,Male,Latino,Columbus,United States,6/19/2007,,$45206,0% 
+E01006,Autumn Leung,Vice President,Finance,Research & Development,25,Female,Asian,Chicago,United States,11/15/2021,,$210708,33% 
+E02903,Robert Vazquez,System Administrator ,IT,Corporate,40,Male,Latino,Austin,United States,9/26/2021,,$87770,0% 
+E03642,Aria Roberts,Manager,Accounting,Corporate,38,Female,Caucasian,Seattle,United States,8/12/2015,,$106858,5% 
+E02884,Axel Johnson,Director,Human Resources,Corporate,60,Male,Caucasian,Seattle,United States,4/14/2015,,$155788,17% 
+E00701,Madeline Garcia,Sr. Business Partner,Human Resources,Speciality Products,45,Female,Latino,Rio de Janerio,Brazil,4/26/2019,,$74891,0% 
+E04720,Christopher Chung,Controls Engineer,Engineering,Corporate,28,Male,Asian,Phoenix,United States,12/18/2021,,$95670,0% 
+E01985,Eliana Turner,Account Representative,Sales,Research & Development,65,Female,Black,Austin,United States,9/29/2000,,$67837,0% 
+E03273,Daniel Shah,Analyst II,Sales,Research & Development,41,Male,Asian,Beijing,China,6/4/2010,,$72425,0% 
+E02415,Penelope Gonzalez,Sr. Analyst,Sales,Corporate,52,Female,Latino,Phoenix,United States,10/16/1994,,$93103,0% 
+E02877,Mila Allen,Controls Engineer,Engineering,Corporate,56,Female,Caucasian,Miami,United States,10/14/2015,10/22/2021,$76272,0% 
+E00091,Emilia Chu,Analyst II,Finance,Manufacturing,48,Female,Asian,Austin,United States,6/24/2003,,$55760,0% 
+E02563,Emily Clark,Vice President,Accounting,Corporate,36,Female,Caucasian,Miami,United States,1/13/2020,,$253294,40% 
+E04221,Roman King,Analyst II,Finance,Corporate,60,Male,Caucasian,Columbus,United States,8/16/2007,,$58671,0% 
+E04887,Emery Do,Account Representative,Sales,Research & Development,40,Female,Asian,Columbus,United States,3/16/2018,,$55457,0% 
+E03170,Autumn Thao,Account Representative,Sales,Manufacturing,63,Female,Asian,Phoenix,United States,9/26/2017,4/3/2019,$72340,0% 
+E01636,Naomi Coleman,Manager,Marketing,Corporate,29,Female,Caucasian,Phoenix,United States,11/2/2016,,$122054,6% 
+E01387,Cora Zheng,Director,IT,Manufacturing,27,Female,Asian,Chengdu,China,1/3/2018,,$167100,20% 
+E01363,Ayla Daniels,Technical Architect,IT,Corporate,53,Female,Caucasian,Miami,United States,4/23/1997,,$78153,0% 
+E02249,Allison Daniels,Manager,Finance,Manufacturing,37,Female,Caucasian,Phoenix,United States,4/14/2020,,$103524,9% 
+E02987,Mateo Harris,Manager,IT,Corporate,30,Male,Caucasian,Columbus,United States,8/5/2017,,$119906,5% 
+E03655,Samantha Rogers,Analyst,Marketing,Speciality Products,28,Female,Caucasian,Miami,United States,1/17/2020,,$45061,0% 
+E04048,Julian Lee,IT Systems Architect,IT,Corporate,51,Male,Asian,Seattle,United States,1/17/2003,,$91399,0% 
+E03626,Nicholas Avila,Enterprise Architect,IT,Research & Development,28,Male,Latino,Austin,United States,9/28/2017,,$97336,0% 
+E03694,Hailey Watson,Sr. Manger,Accounting,Corporate,31,Female,Black,Columbus,United States,1/20/2017,,$124629,10% 
+E02920,Willow Woods,Vice President,Human Resources,Speciality Products,28,Female,Caucasian,Miami,United States,7/25/2021,,$231850,39% 
+E03220,Alexander Gonzales,Manager,Accounting,Research & Development,34,Male,Latino,Phoenix,United States,6/4/2018,,$128329,8% 
+E01347,Aiden Gonzales,Vice President,Marketing,Speciality Products,44,Male,Latino,Sao Paulo,Brazil,3/28/2021,,$186033,34% 
+E03968,Joshua Chin,Sr. Manger,Marketing,Manufacturing,60,Male,Asian,Phoenix,United States,7/26/2021,,$121480,14% 
+E04299,Paisley Hall,Director,Human Resources,Speciality Products,41,Female,Caucasian,Columbus,United States,5/21/2010,,$153275,24% 
+E01150,Allison Leung,Sr. Analyst,Sales,Research & Development,62,Female,Asian,Austin,United States,5/18/2020,,$97830,0% 
+E03774,Hannah Mejia,Vice President,Marketing,Corporate,47,Female,Latino,Austin,United States,3/13/1999,,$239394,32% 
+E01638,Elizabeth Huang,Analyst,Finance,Speciality Products,62,Female,Asian,Beijing,China,9/20/2002,,$49738,0% 
+E01877,Abigail Garza,Analyst,Accounting,Manufacturing,33,Female,Latino,Seattle,United States,5/27/2018,,$45049,0% 
+E01193,Raelynn Lu,Director,Finance,Research & Development,27,Female,Asian,Chongqing,China,5/26/2020,12/12/2020,$153628,29% 
+E01789,Charles Luu,Sr. Manger,Sales,Manufacturing,25,Male,Asian,Shanghai,China,6/15/2021,6/3/2022,$142731,11% 
+E01422,Lydia Espinoza,Sr. Manger,Marketing,Speciality Products,29,Female,Latino,Sao Paulo,Brazil,5/15/2020,,$137106,12% 
+E00440,Adeline Thao,Vice President,Finance,Corporate,54,Female,Asian,Seattle,United States,9/5/2007,,$183239,32% 
+E00145,Kinsley Dixon,Analyst,Accounting,Manufacturing,28,Female,Caucasian,Miami,United States,5/25/2019,,$45819,0% 
+E04150,Natalia Vu,Analyst,Accounting,Research & Development,54,Female,Asian,Columbus,United States,12/29/2006,,$55518,0% 
+E02846,Julia Mai,Manager,Marketing,Manufacturing,50,Female,Asian,Shanghai,China,3/11/2012,,$108134,10% 
+E04247,Camila Evans,Manager,Marketing,Research & Development,55,Female,Black,Miami,United States,12/20/1992,,$113950,9% 
+E02613,Everly Lai,Vice President,Marketing,Speciality Products,52,Female,Asian,Chicago,United States,4/1/1998,,$182035,30% 
+E03349,Adam He,Director,Accounting,Speciality Products,35,Male,Asian,Beijing,China,8/16/2017,,$181356,23% 
+E03648,Vivian Hunter,Account Representative,Sales,Corporate,26,Female,Black,Seattle,United States,8/21/2019,,$66084,0% 
+E02192,Lucy Avila,Solutions Architect,IT,Speciality Products,43,Female,Latino,Sao Paulo,Brazil,4/22/2010,,$76912,0% 
+E03981,Eliana Li,Test Engineer,Engineering,Research & Development,63,Female,Asian,Miami,United States,5/7/2018,,$67987,0% 
+E03262,Logan Mitchell,Analyst II,Marketing,Manufacturing,65,Male,Caucasian,Columbus,United States,8/20/2005,,$59833,0% 
+E02716,Dominic Dinh,Sr. Manger,Marketing,Speciality Products,45,Male,Asian,Chicago,United States,4/11/2005,,$128468,11% 
+E00245,Lucas Daniels,Manager,Sales,Corporate,42,Male,Black,Chicago,United States,5/29/2011,,$102440,6% 
+E04123,Andrew Holmes,Vice President,IT,Speciality Products,59,Male,Black,Miami,United States,12/30/2010,,$246619,36% 
+E03471,Julia Sandoval,Manager,Human Resources,Corporate,42,Female,Latino,Miami,United States,11/19/2017,,$101143,6% 
+E00717,Kennedy Vargas,Business Partner,Human Resources,Manufacturing,45,Female,Latino,Manaus,Brazil,10/14/2005,12/6/2009,$51404,0% 
+E01966,Thomas Williams,Field Engineer,Engineering,Speciality Products,45,Male,Caucasian,Columbus,United States,11/21/2015,,$87292,0% 
+E03683,Raelynn Hong,Director,Marketing,Speciality Products,28,Female,Asian,Beijing,China,12/11/2019,,$182321,28% 
+E03694,Eli Reed,Systems Analyst,IT,Corporate,51,Male,Caucasian,Miami,United States,2/27/2014,12/22/2017,$53929,0% 
+E04766,Lyla Yoon,Vice President,Accounting,Manufacturing,38,Female,Asian,Austin,United States,12/13/2012,,$191571,32% 
+E01465,Hannah White,Sr. Manger,Accounting,Corporate,62,Female,Caucasian,Phoenix,United States,1/30/2009,,$150555,13% 
+E00206,Theodore Xi,Manager,Finance,Corporate,52,Male,Asian,Shanghai,China,10/5/2009,,$122890,7% 
+E04088,Ezra Liang,Vice President,Finance,Research & Development,52,Male,Asian,Miami,United States,5/26/1997,,$216999,37% 
+E02066,Grayson Yee,Manager,Human Resources,Corporate,48,Male,Asian,Beijing,China,7/16/2015,,$110565,9% 
+E03227,Eli Richardson,IT Coordinator,IT,Speciality Products,38,Male,Caucasian,Seattle,United States,4/19/2015,,$48762,0% 
+E03364,Audrey Lee,Development Engineer,Engineering,Speciality Products,51,Female,Asian,Chongqing,China,2/11/2017,,$87036,0% 
+E00607,Jameson Allen,Director,Marketing,Speciality Products,32,Male,Caucasian,Seattle,United States,11/28/2016,,$177443,16% 
+E02258,Eliza Chen,Enterprise Architect,IT,Research & Development,36,Female,Asian,Austin,United States,4/29/2016,,$75862,0% 
+E03681,Lyla Chen,Sr. Business Partner,Human Resources,Research & Development,45,Female,Asian,Chicago,United States,4/26/2019,,$90870,0% 
+E02298,Emily Doan,Engineering Manager,Engineering,Corporate,32,Female,Asian,Phoenix,United States,12/4/2014,,$99202,11% 
+E02984,Jack Mai,Sr. Analyst,Marketing,Corporate,45,Male,Asian,Chengdu,China,9/22/2007,,$92293,0% 
+E02440,Grayson Turner,Solutions Architect,IT,Corporate,54,Male,Caucasian,Chicago,United States,6/30/1992,10/26/2014,$63196,0% 
+E04699,Ivy Tang,Development Engineer,Engineering,Speciality Products,48,Female,Asian,Shanghai,China,5/3/2012,5/9/2018,$65340,0% 
+E03579,Robert Zhang,Vice President,Marketing,Corporate,45,Male,Asian,Phoenix,United States,9/24/2015,8/17/2022,$202680,32% 
+E01649,Eva Alvarado,Computer Systems Manager,IT,Manufacturing,46,Female,Latino,Sao Paulo,Brazil,4/24/2017,,$77461,9% 
+E04969,Abigail Vang,Operations Engineer,Engineering,Research & Development,40,Female,Asian,Chengdu,China,9/9/2016,,$109680,0% 
+E00170,Claire Adams,Director,Sales,Manufacturing,61,Female,Black,Phoenix,United States,8/19/1997,,$159567,28% 
+E00955,Theodore Marquez,Development Engineer,Engineering,Speciality Products,54,Male,Latino,Sao Paulo,Brazil,11/24/2012,,$94407,0% 
+E00810,Hunter Nunez,Vice President,Human Resources,Corporate,62,Male,Latino,Seattle,United States,8/16/2002,,$234594,33% 
+E02798,Charles Henderson,Systems Analyst,IT,Speciality Products,48,Male,Caucasian,Austin,United States,2/11/2002,,$43080,0% 
+E04542,Camila Cortez,Manager,Marketing,Manufacturing,29,Female,Latino,Phoenix,United States,5/9/2021,5/24/2021,$129541,8% 
+E02818,Aaron Garza,Director,Sales,Research & Development,39,Male,Latino,Columbus,United States,12/27/2013,6/9/2020,$165756,28% 
+E02907,Jose Singh,Sr. Manger,Finance,Speciality Products,44,Male,Asian,Columbus,United States,4/6/2010,,$142878,12% 
+E00023,Gabriel Joseph,Director,Engineering,Manufacturing,52,Male,Caucasian,Miami,United States,10/28/2006,,$187992,28% 
+E02391,Natalia Santos,Vice President,Human Resources,Speciality Products,45,Female,Latino,Sao Paulo,Brazil,2/25/2019,,$249801,39% 
+E01429,Dylan Wilson,Network Administrator,IT,Research & Development,48,Male,Caucasian,Seattle,United States,9/27/2006,4/8/2007,$76505,0% 
+E00494,Robert Alvarez,Service Desk Analyst,IT,Corporate,39,Male,Latino,Manaus,Brazil,10/21/2016,,$84297,0% 
+E00634,Samantha Chavez,Sr. Analyst,Sales,Speciality Products,53,Female,Latino,Manaus,Brazil,1/9/2017,7/17/2020,$75769,0% 
+E01249,Samuel Bailey,Vice President,Accounting,Speciality Products,41,Male,Caucasian,Seattle,United States,8/17/2013,,$235619,30% 
+E04683,Ezekiel Delgado,Director,Engineering,Speciality Products,40,Male,Latino,Manaus,Brazil,2/7/2020,,$187187,18% 
+E04732,Benjamin Ramirez,Network Engineer,IT,Research & Development,48,Male,Latino,Chicago,United States,7/27/2005,4/22/2006,$68987,0% 
+E03834,Anthony Carter,Director,Engineering,Speciality Products,41,Male,Caucasian,Columbus,United States,3/15/2007,5/30/2008,$155926,24% 
+E02923,Ethan Tang,Sr. Analyst,Accounting,Speciality Products,54,Male,Asian,Chicago,United States,5/4/2016,,$93668,0% 
+E02642,Sebastian Rogers,HRIS Analyst,Human Resources,Research & Development,38,Male,Caucasian,Miami,United States,11/29/2019,4/20/2022,$69647,0% 
+E00981,Miles Thao,System Administrator ,IT,Corporate,57,Male,Asian,Columbus,United States,6/26/2003,,$63318,0% 
+E04157,William Cao,Sr. Analyst,Marketing,Manufacturing,63,Male,Asian,Beijing,China,2/12/2017,,$77629,0% 
+E03528,Leo Hsu,Sr. Manger,Human Resources,Manufacturing,62,Male,Asian,Chongqing,China,11/22/2017,,$138808,15% 
+E04547,Avery Grant,Enterprise Architect,IT,Research & Development,49,Female,Caucasian,Chicago,United States,3/5/2014,,$88777,0% 
+E04415,Penelope Fong,Director,Accounting,Corporate,60,Female,Asian,Chongqing,China,5/14/2004,,$186378,26% 
+E04484,Vivian Thao,Quality Engineer,Engineering,Research & Development,45,Female,Asian,Chicago,United States,4/23/2015,,$60017,0% 
+E02800,Eva Estrada,Sr. Manger,Sales,Speciality Products,45,Female,Latino,Sao Paulo,Brazil,7/24/2018,,$148991,12% 
+E04926,Emma Luna,Field Engineer,Engineering,Speciality Products,52,Female,Latino,Manaus,Brazil,3/25/2008,,$97398,0% 
+E01268,Charlotte Wu,Sr. Business Partner,Human Resources,Manufacturing,63,Female,Asian,Shanghai,China,5/2/2007,,$72805,0% 
+E04853,Vivian Chu,Sr. Account Representative,Sales,Research & Development,46,Female,Asian,Shanghai,China,1/17/2021,,$72131,0% 
+E01209,Jayden Williams,Manager,Human Resources,Manufacturing,64,Male,Caucasian,Columbus,United States,12/26/1992,,$104668,8% 
+E02024,Amelia Bell,Sr. Analyst,Sales,Manufacturing,53,Female,Caucasian,Seattle,United States,8/5/2017,,$89769,0% 
+E02427,Addison Mehta,Manager,Sales,Corporate,27,Female,Asian,Columbus,United States,9/15/2018,,$127616,7% 
+E00276,Alexander Jackson,Manager,Human Resources,Corporate,45,Male,Caucasian,Columbus,United States,7/9/2012,,$109883,7% 
+E00951,Everly Lin,Business Partner,Human Resources,Manufacturing,25,Female,Asian,Chongqing,China,3/15/2021,,$47974,0% 
+E03248,Lyla Stewart,Sr. Manger,IT,Speciality Products,43,Female,Caucasian,Austin,United States,3/27/2015,,$120321,12% 
+E04444,Brooklyn Ruiz,IT Coordinator,IT,Manufacturing,61,Female,Latino,Phoenix,United States,8/10/2014,,$57446,0% 
+E02307,Skylar Evans,Director,Accounting,Research & Development,42,Female,Caucasian,Austin,United States,6/4/2009,,$174099,26% 
+E02375,Lincoln Huynh,Sr. Manger,Finance,Manufacturing,63,Male,Asian,Austin,United States,2/8/2002,,$128703,13% 
+E02276,Hazel Griffin,Field Engineer,Engineering,Corporate,32,Female,Caucasian,Phoenix,United States,11/9/2015,,$65247,0% 
+E02649,Charles Gonzalez,Quality Engineer,Engineering,Research & Development,27,Male,Latino,Rio de Janerio,Brazil,9/28/2018,,$64247,0% 
+E00503,Leah Patterson,Manager,Human Resources,Research & Development,33,Female,Caucasian,Austin,United States,6/11/2012,,$118253,8% 
+E01706,Avery Sun,Operations Engineer,Engineering,Manufacturing,45,Female,Asian,Chongqing,China,3/11/2004,,$109422,0% 
+E00676,Isaac Yoon,Manager,Human Resources,Corporate,41,Male,Asian,Chicago,United States,2/6/2019,,$126950,10% 
+E02005,Isabella Bui,Enterprise Architect,IT,Manufacturing,36,Female,Asian,Miami,United States,11/21/2014,,$97500,0% 
+E01895,Gabriel Zhou,IT Coordinator,IT,Manufacturing,25,Male,Asian,Chongqing,China,1/17/2021,,$41844,0% 
+E01396,Jack Vu,Analyst II,Accounting,Research & Development,43,Male,Asian,Chengdu,China,2/10/2014,,$58875,0% 
+E00749,Valentina Moua,Account Representative,Sales,Manufacturing,37,Female,Asian,Columbus,United States,11/10/2015,4/20/2021,$64204,0% 
+E01941,Quinn Trinh,Analyst II,Sales,Corporate,42,Female,Asian,Beijing,China,5/9/2010,12/25/2014,$67743,0% 
+E01413,Caroline Nelson,Sr. Account Representative,Sales,Speciality Products,60,Female,Black,Columbus,United States,7/30/1997,,$71677,0% 
+E03928,Miles Dang,IT Coordinator,IT,Speciality Products,61,Male,Asian,Miami,United States,9/24/2000,,$40063,0% 
+E04109,Leah Bryant,IT Coordinator,IT,Manufacturing,55,Female,Caucasian,Austin,United States,4/30/2004,,$40124,0% 
+E03994,Henry Jung,Automation Engineer,Engineering,Manufacturing,57,Male,Asian,Austin,United States,2/26/2018,7/9/2021,$103183,0% 
+E00639,Benjamin Mai,System Administrator ,IT,Corporate,54,Male,Asian,Phoenix,United States,6/15/1998,,$95239,0% 
+E00608,Anna Han,Development Engineer,Engineering,Manufacturing,29,Female,Asian,Chicago,United States,11/9/2019,,$75012,0% 
+E04189,Ariana Kim,Network Architect,IT,Manufacturing,33,Female,Asian,Chengdu,China,6/29/2014,,$96366,0% 
+E02732,Alice Tran,Analyst,Marketing,Corporate,39,Female,Asian,Seattle,United States,7/29/2014,,$40897,0% 
+E00324,Hailey Song,Manager,Finance,Research & Development,37,Female,Asian,Chongqing,China,8/23/2016,,$124928,6% 
+E00518,Lydia Morales,Manager,Finance,Speciality Products,51,Female,Latino,Manaus,Brazil,6/14/2013,,$108221,5% 
+E01286,Liam Sanders,Sr. Business Partner,Human Resources,Corporate,46,Male,Caucasian,Seattle,United States,2/20/2007,,$75579,0% 
+E04564,Luke Sanchez,Sr. Manger,Human Resources,Manufacturing,41,Male,Latino,Sao Paulo,Brazil,12/27/2015,,$129903,13% 
+E02033,Grace Sun,Director,Finance,Research & Development,25,Female,Asian,Shanghai,China,4/17/2021,,$186870,20% 
+E00412,Ezra Banks,Analyst II,Sales,Research & Development,37,Male,Caucasian,Chicago,United States,4/23/2010,,$57531,0% 
+E01844,Jayden Kang,Analyst,Finance,Research & Development,46,Male,Asian,Seattle,United States,4/24/2011,,$55894,0% 
+E00667,Skylar Shah,Field Engineer,Engineering,Manufacturing,42,Female,Asian,Phoenix,United States,4/27/2012,,$72903,0% 
+E02639,Sebastian Le,Analyst,Finance,Corporate,37,Male,Asian,Beijing,China,11/9/2015,,$45369,0% 
+E00287,Luca Nelson,Manager,Finance,Speciality Products,60,Male,Caucasian,Miami,United States,6/15/2010,,$106578,9% 
+E02235,Riley Ramirez,Sr. Business Partner,Human Resources,Research & Development,52,Female,Latino,Chicago,United States,9/13/1999,,$92994,0% 
+E02720,Jaxon Fong,Sr. Analyst,Sales,Speciality Products,59,Male,Asian,Beijing,China,3/13/1997,,$83685,0% 
+E03583,Kayden Jordan,Cloud Infrastructure Architect,IT,Research & Development,48,Male,Caucasian,Phoenix,United States,9/14/2010,,$99335,0% 
+E01188,Alexander James,Sr. Manger,Human Resources,Manufacturing,42,Male,Caucasian,Columbus,United States,4/18/2013,,$131179,15% 
+E02428,Connor Luu,Computer Systems Manager,IT,Speciality Products,35,Male,Asian,Chengdu,China,5/3/2016,,$73899,5% 
+E03289,Christopher Lam,Vice President,Accounting,Manufacturing,64,Male,Asian,Columbus,United States,3/29/2013,,$252325,40% 
+E01947,Sophie Owens,Analyst II,Finance,Research & Development,30,Female,Caucasian,Seattle,United States,3/5/2015,,$52697,0% 
+E02024,Addison Perez,Operations Engineer,Engineering,Speciality Products,29,Female,Latino,Sao Paulo,Brazil,9/25/2020,,$123588,0% 
+E04249,Hadley Dang,Vice President,Accounting,Corporate,47,Female,Asian,Austin,United States,12/26/2021,,$243568,33% 
+E01090,Ethan Mehta,Director,Sales,Research & Development,49,Male,Asian,Phoenix,United States,7/20/2001,,$199176,24% 
+E03830,Madison Her,Technical Architect,IT,Speciality Products,56,Female,Asian,Seattle,United States,6/22/1996,,$82806,0% 
+E04363,Savannah Singh,Director,Marketing,Speciality Products,53,Female,Asian,Seattle,United States,6/20/1997,,$164399,25% 
+E04920,Nevaeh Hsu,Sr. Manger,Human Resources,Manufacturing,32,Female,Asian,Phoenix,United States,4/14/2017,,$154956,13% 
+E03866,Jordan Zhu,Sr. Manger,Marketing,Manufacturing,32,Male,Asian,Seattle,United States,1/29/2017,12/9/2017,$143970,12% 
+E03521,Jackson Navarro,Director,Sales,Corporate,52,Male,Latino,Sao Paulo,Brazil,9/25/2020,,$163143,28% 
+E04095,Sadie Patterson,Sr. Analyst,Accounting,Speciality Products,38,Female,Caucasian,Seattle,United States,7/24/2020,,$89390,0% 
+E04079,Christopher Butler,Network Architect,IT,Manufacturing,41,Male,Caucasian,Miami,United States,10/5/2017,,$67468,0% 
+E01508,Penelope Rodriguez,Engineering Manager,Engineering,Manufacturing,49,Female,Latino,Rio de Janerio,Brazil,3/12/2016,,$100810,12% 
+E02259,Emily Lau,Sr. Analyst,Finance,Manufacturing,35,Female,Asian,Phoenix,United States,3/18/2019,,$74779,0% 
+E04972,Sophie Oh,Network Engineer,IT,Corporate,29,Female,Asian,Miami,United States,11/9/2017,,$63985,0% 
+E01834,Chloe Allen,Solutions Architect,IT,Manufacturing,64,Female,Caucasian,Seattle,United States,7/8/2004,,$77903,0% 
+E03124,Caleb Nelson,Director,Marketing,Corporate,33,Male,Caucasian,Columbus,United States,6/12/2017,,$164396,29% 
+E01898,Oliver Moua,IT Systems Architect,IT,Corporate,29,Male,Asian,Seattle,United States,6/28/2021,,$71234,0% 
+E00342,Wesley Doan,Manager,Finance,Corporate,63,Male,Asian,Shanghai,China,4/19/2004,,$122487,8% 
+E03910,Nova Hsu,Manager,Human Resources,Speciality Products,32,Female,Asian,Phoenix,United States,1/3/2017,,$101870,10% 
+E00862,Levi Moreno,Systems Analyst,IT,Research & Development,64,Male,Latino,Manaus,Brazil,6/27/2020,,$40316,0% 
+E02576,Gianna Ha,Manager,IT,Research & Development,55,Female,Asian,Chongqing,China,2/8/2005,,$115145,5% 
+E00035,Lillian Gonzales,Cloud Infrastructure Architect,IT,Manufacturing,43,Female,Latino,Manaus,Brazil,3/13/2009,,$62335,0% 
+E01832,Ezra Singh,Analyst,Finance,Manufacturing,56,Male,Asian,Austin,United States,5/10/2006,,$41561,0% 
+E01755,Audrey Patel,Sr. Manger,Finance,Speciality Products,37,Female,Asian,Shanghai,China,4/24/2011,3/16/2016,$131183,14% 
+E00465,Brooklyn Cho,Technical Architect,IT,Manufacturing,45,Female,Asian,Chengdu,China,7/8/2002,,$92655,0% 
+E02391,Piper Ramos,Sr. Manger,Sales,Manufacturing,49,Female,Latino,Miami,United States,4/2/1996,,$157057,12% 
+E04697,Eleanor Williams,Enterprise Architect,IT,Speciality Products,61,Female,Caucasian,Chicago,United States,2/9/2005,,$64462,0% 
+E00371,Melody Grant,Quality Engineer,Engineering,Corporate,41,Female,Caucasian,Seattle,United States,10/7/2005,,$79352,0% 
+E02992,Paisley Sanders,Sr. Manger,Marketing,Speciality Products,55,Female,Caucasian,Miami,United States,3/27/2001,,$157812,11% 
+E04369,Santiago f Gray,Quality Engineer,Engineering,Corporate,27,Male,Caucasian,Chicago,United States,9/11/2018,,$80745,0% 
+E00592,Josephine Richardson,System Administrator ,IT,Manufacturing,57,Female,Caucasian,Austin,United States,2/18/1996,12/14/1996,$75354,0% 
+E03532,Jaxson Santiago,Engineering Manager,Engineering,Research & Development,56,Male,Latino,Phoenix,United States,9/20/2018,,$78938,14% 
+E00863,Lincoln Ramos,Operations Engineer,Engineering,Corporate,59,Male,Latino,Austin,United States,9/10/2008,,$96313,0% 
+E03310,Dylan Campbell,Director,Engineering,Speciality Products,45,Male,Caucasian,Phoenix,United States,11/29/2010,,$153767,27% 
+E01883,Olivia Gray,Manager,Marketing,Research & Development,42,Female,Black,Columbus,United States,9/19/2015,,$103423,6% 
+E01242,Emery Doan,Controls Engineer,Engineering,Corporate,25,Female,Asian,Shanghai,China,6/23/2021,,$86464,0% 
+E02535,Caroline Perez,Controls Engineer,Engineering,Corporate,29,Female,Latino,Sao Paulo,Brazil,1/14/2018,,$80516,0% 
+E00369,Genesis Woods,Manager,Human Resources,Speciality Products,33,Female,Black,Columbus,United States,8/21/2013,,$105390,6% 
+E03332,Ruby Sun,Cloud Infrastructure Architect,IT,Manufacturing,50,Female,Asian,Shanghai,China,9/6/2021,,$83418,0% 
+E03278,Nevaeh James,Solutions Architect,IT,Speciality Products,45,Female,Caucasian,Austin,United States,11/3/2017,,$66660,0% 
+E02492,Parker Sandoval,Manager,Human Resources,Speciality Products,59,Male,Latino,Miami,United States,6/10/2015,,$101985,7% 
+E03055,Austin Rojas,Vice President,Finance,Corporate,29,Male,Latino,Austin,United States,12/5/2018,,$199504,30% 
+E01943,Vivian Espinoza,Sr. Manger,Sales,Corporate,52,Female,Latino,Rio de Janerio,Brazil,10/5/2006,5/23/2019,$147966,11% 
+E01388,Cooper Gupta,Business Partner,Human Resources,Speciality Products,58,Male,Asian,Chongqing,China,6/20/2014,,$41728,0% 
+E00717,Axel Santos,Sr. Analyst,Accounting,Speciality Products,62,Male,Latino,Phoenix,United States,2/17/2011,,$94422,0% 
+E04637,Samuel Song,Director,Sales,Corporate,31,Male,Asian,Columbus,United States,6/29/2015,,$191026,16% 
+E03240,Aiden Silva,Vice President,IT,Research & Development,42,Male,Latino,Manaus,Brazil,11/29/2010,,$186725,32% 
+E00340,Eliana Allen,Business Partner,Human Resources,Research & Development,56,Female,Caucasian,Phoenix,United States,8/20/2009,,$52800,0% 
+E04751,Grayson James,Operations Engineer,Engineering,Speciality Products,54,Male,Caucasian,Seattle,United States,12/5/2010,,$113982,0% 
+E04636,Hailey Yee,Account Representative,Sales,Research & Development,54,Female,Asian,Chongqing,China,3/16/2021,,$56239,0% 
+E00568,Ian Vargas,Analyst,Sales,Manufacturing,26,Male,Latino,Rio de Janerio,Brazil,3/2/2021,,$44732,0% 
+E02938,John Trinh,Director,Marketing,Corporate,49,Male,Asian,Shanghai,China,6/26/2014,,$153961,25% 
+E00555,Sofia Trinh,Network Architect,IT,Speciality Products,45,Female,Asian,Chongqing,China,12/18/2006,,$68337,0% 
+E01111,Santiago f Moua,Sr. Manger,Human Resources,Corporate,45,Male,Asian,Chicago,United States,5/7/2010,,$145093,12% 
+E03149,Layla Collins,IT Systems Architect,IT,Speciality Products,26,Female,Caucasian,Austin,United States,3/11/2021,,$74170,0% 
+E00952,Jaxon Powell,Field Engineer,Engineering,Research & Development,59,Male,Caucasian,Austin,United States,3/29/1996,,$62605,0% 
+E04380,Naomi Washington,Manager,IT,Speciality Products,51,Female,Caucasian,Austin,United States,3/13/2020,,$107195,9% 
+E04095,Ryan Holmes,Sr. Manger,Marketing,Speciality Products,45,Male,Caucasian,Columbus,United States,1/11/2018,,$127422,15% 
+E04994,Bella Holmes,Director,Accounting,Research & Development,35,Female,Caucasian,Miami,United States,6/26/2017,,$161269,27% 
+E00447,Hailey Sanchez,Vice President,Marketing,Corporate,32,Female,Latino,Manaus,Brazil,2/5/2014,,$203445,34% 
+E00089,Sofia Yoon,Sr. Manger,Human Resources,Research & Development,37,Female,Asian,Shanghai,China,1/17/2011,,$131353,11% 
+E02035,Eli Rahman,Service Desk Analyst,IT,Manufacturing,45,Male,Asian,Chengdu,China,3/16/2010,,$88182,0% 
+E03595,Christopher Howard,Enterprise Architect,IT,Speciality Products,61,Male,Caucasian,Seattle,United States,8/26/2019,,$75780,0% 
+E03611,Alice Mehta,Analyst II,Sales,Research & Development,45,Female,Asian,Beijing,China,4/2/2019,,$52621,0% 
+E04464,Cooper Yoon,Engineering Manager,Engineering,Research & Development,60,Male,Asian,Austin,United States,2/15/2018,4/9/2021,$106079,14% 
+E02135,John Delgado,Cloud Infrastructure Architect,IT,Corporate,30,Male,Latino,Austin,United States,2/11/2017,,$92058,0% 
+E01684,Jaxson Liang,Field Engineer,Engineering,Manufacturing,64,Male,Asian,Phoenix,United States,3/3/2019,,$67114,0% 
+E02968,Caroline Santos,Analyst II,Finance,Research & Development,25,Female,Latino,Sao Paulo,Brazil,7/12/2020,,$56565,0% 
+E03362,Lily Henderson,HRIS Analyst,Human Resources,Manufacturing,61,Female,Caucasian,Phoenix,United States,5/20/2011,,$64937,0% 
+E01108,Hannah Martinez,Manager,Marketing,Manufacturing,65,Female,Latino,Miami,United States,9/7/2006,,$127626,10% 
+E02217,William Phillips,Network Architect,IT,Corporate,61,Male,Black,Austin,United States,1/27/2004,,$88478,0% 
+E03519,Eliza Zheng,Computer Systems Manager,IT,Speciality Products,48,Female,Asian,Chongqing,China,4/20/2014,,$91679,7% 
+E01967,John Dang,Director,Sales,Corporate,58,Male,Asian,Chongqing,China,3/19/1992,,$199848,16% 
+E01125,Joshua Yang,Network Engineer,IT,Manufacturing,34,Male,Asian,Shanghai,China,11/10/2018,,$61944,0% 
+E03795,Hazel Young,Sr. Manger,Sales,Speciality Products,30,Female,Black,Austin,United States,8/13/2017,,$154624,15% 
+E00508,Thomas Jung,Sr. Analyst,Accounting,Research & Development,50,Male,Asian,Shanghai,China,10/23/2009,,$79447,0% 
+E02047,Xavier Perez,Sr. Analyst,Sales,Manufacturing,51,Male,Latino,Rio de Janerio,Brazil,2/26/1998,,$71111,0% 
+E01582,Elijah Coleman,Sr. Manger,Sales,Research & Development,53,Male,Caucasian,Miami,United States,10/19/2014,,$159538,11% 
+E02563,Clara Sanchez,Controls Engineer,Engineering,Corporate,47,Female,Latino,Rio de Janerio,Brazil,10/2/2018,,$111404,0% 
+E04872,Isaac Stewart,Director,Marketing,Speciality Products,25,Male,Caucasian,Miami,United States,8/15/2020,,$172007,26% 
+E03159,Claire Romero,Vice President,Marketing,Manufacturing,37,Female,Latino,Manaus,Brazil,7/21/2011,,$219474,36% 
+E01337,Andrew Coleman,Director,Finance,Corporate,41,Male,Caucasian,Miami,United States,5/15/2019,,$174415,23% 
+E00102,Riley Rojas,Network Architect,IT,Speciality Products,36,Female,Latino,Rio de Janerio,Brazil,1/21/2021,,$90333,0% 
+E03637,Landon Thao,HRIS Analyst,Human Resources,Speciality Products,25,Male,Asian,Phoenix,United States,1/21/2021,,$67299,0% 
+E03455,Hadley Ford,Systems Analyst,IT,Research & Development,52,Female,Caucasian,Chicago,United States,2/23/2005,,$45286,0% 
+E03354,Austin Brown,Director,Marketing,Research & Development,48,Male,Caucasian,Phoenix,United States,8/8/2007,,$194723,25% 
+E01225,Christian Fong,Manager,Sales,Research & Development,49,Male,Asian,Beijing,China,8/10/2012,2/4/2020,$109850,7% 
+E01264,Hazel Alvarez,Business Partner,Human Resources,Research & Development,62,Female,Latino,Sao Paulo,Brazil,4/19/2014,,$45295,0% 
+E02274,Isabella Bailey,Network Administrator,IT,Manufacturing,36,Female,Caucasian,Phoenix,United States,8/23/2010,,$61310,0% 
+E02848,Lincoln Huynh,System Administrator ,IT,Research & Development,55,Male,Asian,Chongqing,China,11/9/2016,,$87851,0% 
+E00480,Hadley Yee,Business Partner,Human Resources,Speciality Products,31,Female,Asian,Seattle,United States,3/12/2018,,$47913,0% 
+E00203,Julia Doan,Business Partner,Human Resources,Speciality Products,53,Female,Asian,Columbus,United States,9/7/2017,5/31/2018,$46727,0% 
+E00647,Dylan Ali,Sr. Manger,Human Resources,Speciality Products,27,Male,Asian,Phoenix,United States,4/16/2021,,$133400,11% 
+E03296,Eloise Trinh,Solutions Architect,IT,Speciality Products,39,Female,Asian,Miami,United States,4/22/2020,,$90535,0% 
+E02453,Dylan Kumar,Sr. Analyst,Marketing,Speciality Products,55,Male,Asian,Chongqing,China,7/11/2006,,$93343,0% 
+E00647,Emily Gupta,HRIS Analyst,Human Resources,Corporate,44,Female,Asian,Miami,United States,2/23/2006,,$63705,0% 
+E02522,Silas Rivera,Vice President,Sales,Corporate,48,Male,Latino,Chicago,United States,2/28/2000,,$258081,30% 
+E00459,Jackson Jordan,Business Partner,Human Resources,Research & Development,48,Male,Black,Phoenix,United States,9/21/2020,,$54654,0% 
+E03007,Isaac Joseph,Analyst,Sales,Manufacturing,54,Male,Caucasian,Seattle,United States,9/24/1998,,$58006,0% 
+E04035,Hailey Lai,Sr. Manger,Finance,Manufacturing,42,Female,Asian,Beijing,China,3/18/2011,,$150034,12% 
+E00952,Leilani Thao,Director,Human Resources,Speciality Products,38,Female,Asian,Seattle,United States,5/30/2007,,$198562,22% 
+E03863,Madeline Watson,Account Representative,Sales,Research & Development,40,Female,Black,Miami,United States,5/27/2009,8/14/2021,$62411,0% 
+E02710,Silas Huang,Engineering Manager,Engineering,Research & Development,57,Male,Asian,Miami,United States,1/9/1992,,$111299,12% 
+E01895,Peyton Walker,Analyst,Marketing,Research & Development,43,Female,Caucasian,Miami,United States,7/13/2019,,$41545,0% 
+E01339,Jeremiah Hernandez,Network Engineer,IT,Manufacturing,26,Male,Latino,Columbus,United States,4/14/2019,1/15/2021,$74467,0% 
+E02938,Jace Washington,Manager,Accounting,Research & Development,44,Male,Caucasian,Phoenix,United States,2/9/2002,,$117545,6% 
+E03379,Landon Kim,Manager,Human Resources,Speciality Products,50,Male,Asian,Phoenix,United States,3/15/2012,,$117226,8% 
+E02153,Peyton Vasquez,Analyst,Accounting,Corporate,26,Female,Latino,Phoenix,United States,1/24/2019,,$55767,0% 
+E00994,Charlotte Baker,Analyst II,Sales,Manufacturing,29,Female,Caucasian,Austin,United States,11/17/2016,,$60930,0% 
+E00943,Elena Mendoza,Director,Sales,Speciality Products,27,Female,Latino,Sao Paulo,Brazil,10/24/2018,,$154973,29% 
+E00869,Nova Lin,Cloud Infrastructure Architect,IT,Manufacturing,33,Female,Asian,Columbus,United States,10/21/2017,,$69332,0% 
+E03457,Ivy Desai,Controls Engineer,Engineering,Research & Development,59,Female,Asian,Shanghai,China,4/9/2001,,$119699,0% 
+E02193,Josephine Acosta,Director,Human Resources,Speciality Products,40,Female,Latino,Manaus,Brazil,9/20/2020,,$198176,17% 
+E00577,Nora Nunez,Analyst II,Finance,Research & Development,45,Female,Latino,Sao Paulo,Brazil,8/6/2012,,$58586,0% 
+E00538,Caleb Xiong,Sr. Account Representative,Sales,Corporate,38,Male,Asian,Chicago,United States,11/28/2011,,$74010,0% 
+E01415,Henry Green,Sr. Account Representative,Sales,Speciality Products,32,Male,Caucasian,Phoenix,United States,2/3/2020,,$96598,0% 
+E00717,Madelyn Chan,Manager,Sales,Speciality Products,64,Female,Asian,Phoenix,United States,5/21/2003,,$106444,5% 
+E00225,Angel Delgado,Director,Finance,Corporate,31,Male,Latino,Seattle,United States,8/10/2017,,$156931,28% 
+E02889,Mia Herrera,Director,Marketing,Research & Development,43,Female,Latino,Manaus,Brazil,10/16/2014,,$171360,23% 
+E04978,Peyton Harris,Enterprise Architect,IT,Research & Development,45,Female,Caucasian,Miami,United States,4/5/2009,,$64505,0% 
+E04163,David Herrera,Engineering Manager,Engineering,Speciality Products,32,Male,Latino,Rio de Janerio,Brazil,10/9/2021,,$102298,13% 
+E01652,Avery Dominguez,Sr. Manger,Sales,Corporate,27,Female,Latino,Rio de Janerio,Brazil,9/13/2019,,$133297,13% 
+E00880,Grace Carter,Sr. Manger,Human Resources,Speciality Products,25,Female,Black,Austin,United States,3/17/2021,,$155080,10% 
+E04335,Parker Allen,Sr. Analyst,Sales,Speciality Products,31,Male,Caucasian,Miami,United States,8/13/2018,,$81828,0% 
+E01300,Sadie Lee,Sr. Manger,Marketing,Corporate,65,Female,Asian,Chengdu,China,10/24/2000,,$149417,13% 
+E03102,Cooper Valdez,Manager,Sales,Corporate,50,Male,Latino,Sao Paulo,Brazil,4/25/2012,,$113269,9% 
+E04089,Sebastian Fong,Sr. Manger,IT,Manufacturing,46,Male,Asian,Austin,United States,12/16/2017,,$136716,12% 
+E02059,Roman Munoz,Sr. Manger,Sales,Speciality Products,54,Male,Latino,Austin,United States,10/20/2011,,$122644,12% 
+E03894,Charlotte Chang,Manager,Sales,Research & Development,50,Female,Asian,Chicago,United States,5/7/2000,,$106428,7% 
+E03106,Xavier Davis,Vice President,Finance,Corporate,36,Male,Caucasian,Seattle,United States,1/17/2009,,$238236,31% 
+E01350,Natalie Carter,Director,Finance,Corporate,64,Female,Caucasian,Austin,United States,12/21/2012,,$153253,24% 
+E02900,Elena Richardson,Manager,Accounting,Manufacturing,34,Female,Caucasian,Columbus,United States,10/3/2014,,$103707,9% 
+E02202,Emilia Bailey,Vice President,Accounting,Speciality Products,41,Female,Caucasian,Austin,United States,8/9/2012,,$245360,37% 
+E02696,Ryan Lu,Development Engineer,Engineering,Speciality Products,25,Male,Asian,Columbus,United States,7/8/2021,,$67275,0% 
+E01722,Asher Huynh,Manager,IT,Manufacturing,45,Male,Asian,Phoenix,United States,1/22/2015,,$101288,10% 
+E04562,Kinsley Martinez,Director,Human Resources,Speciality Products,52,Female,Latino,Sao Paulo,Brazil,8/28/1993,,$177443,25% 
+E00640,Paisley Bryant,Cloud Infrastructure Architect,IT,Manufacturing,37,Female,Black,Chicago,United States,4/27/2016,,$91400,0% 
+E02554,Joshua Ramirez,Vice President,Human Resources,Corporate,44,Male,Latino,Sao Paulo,Brazil,9/10/2007,,$181247,33% 
+E03412,Joshua Martin,Sr. Manger,Human Resources,Research & Development,42,Male,Black,Phoenix,United States,10/20/2003,,$135558,14% 
+E00646,Charles Moore,Analyst,Accounting,Speciality Products,49,Male,Caucasian,Seattle,United States,12/17/2011,,$56878,0% 
+E04670,Angel Do,IT Systems Architect,IT,Speciality Products,34,Male,Asian,Beijing,China,9/20/2019,,$94735,0% 
+E03580,Maverick Medina,Analyst II,Sales,Manufacturing,39,Male,Latino,Seattle,United States,5/27/2007,,$51234,0% 
+E00446,Isaac Han,Vice President,Human Resources,Speciality Products,31,Male,Asian,Phoenix,United States,1/14/2015,,$230025,34% 
+E02363,Eliza Liang,Sr. Manger,Human Resources,Speciality Products,36,Female,Asian,Beijing,China,3/11/2010,,$134006,13% 
+E03718,Zoe Zhou,Manager,Finance,Corporate,61,Female,Asian,Beijing,China,10/6/2009,,$103096,7% 
+E01749,Nathan Lee,Analyst,Accounting,Manufacturing,29,Male,Asian,Columbus,United States,8/20/2016,,$58703,0% 
+E02888,Elijah Ramos,Sr. Manger,IT,Speciality Products,33,Male,Latino,Rio de Janerio,Brazil,12/24/2012,,$132544,10% 
+E01338,Jaxson Coleman,Manager,Finance,Manufacturing,32,Male,Caucasian,Miami,United States,4/15/2020,,$126671,9% 
+E03000,Hailey Hong,Account Representative,Sales,Research & Development,33,Female,Asian,Chicago,United States,1/22/2021,,$56405,0% 
+E01611,Gabriella Zhu,Computer Systems Manager,IT,Speciality Products,36,Female,Asian,Chongqing,China,11/29/2014,,$88730,8% 
+E02684,Aaron Maldonado,Analyst II,Finance,Manufacturing,39,Male,Latino,Seattle,United States,9/17/2008,,$62861,0% 
+E02561,Samantha Vargas,Director,Human Resources,Corporate,53,Female,Latino,Sao Paulo,Brazil,7/21/2006,,$151246,21% 
+E03168,Nora Le,Sr. Manger,IT,Manufacturing,53,Female,Asian,Seattle,United States,4/12/1997,,$154388,10% 
+E00758,Alice Roberts,Director,Human Resources,Manufacturing,54,Female,Caucasian,Miami,United States,9/26/1994,5/24/2004,$162978,17% 
+E03691,Colton Garcia,Solutions Architect,IT,Speciality Products,55,Male,Latino,Miami,United States,11/17/1993,,$80170,0% 
+E01488,Stella Lai,Sr. Analyst,Accounting,Manufacturing,44,Female,Asian,Miami,United States,4/28/2021,,$98520,0% 
+E04415,Leonardo Luong,Manager,Finance,Manufacturing,52,Male,Asian,Phoenix,United States,12/29/1999,,$116527,7% 
+E03278,Nicholas Wong,Director,Sales,Research & Development,27,Male,Asian,Columbus,United States,11/7/2019,,$174607,29% 
+E00282,Jeremiah Castillo,Analyst II,Accounting,Research & Development,58,Male,Latino,Columbus,United States,4/12/2006,,$64202,0% 
+E03305,Cooper Jiang,Analyst II,Accounting,Corporate,49,Male,Asian,Chongqing,China,7/25/2019,3/2/2021,$50883,0% 
+E00559,Penelope Silva,Network Architect,IT,Speciality Products,36,Female,Latino,Columbus,United States,11/3/2016,,$94618,0% 
+E02558,Jose Richardson,Director,Marketing,Research & Development,26,Male,Caucasian,Miami,United States,10/15/2019,,$151556,20% 
+E00956,Eleanor Chau,Development Engineer,Engineering,Research & Development,37,Female,Asian,Phoenix,United States,3/8/2020,,$80659,0% 
+E03858,John Cho,Director,Human Resources,Speciality Products,47,Male,Asian,Chengdu,China,11/3/2019,,$195385,21% 
+E02221,Julian Delgado,Systems Analyst,IT,Speciality Products,29,Male,Latino,Rio de Janerio,Brazil,5/19/2016,,$52693,0% 
+E00126,Isabella Scott,Network Administrator,IT,Research & Development,58,Female,Caucasian,Phoenix,United States,4/26/2016,,$72045,0% 
+E02627,Parker Avila,Analyst II,Marketing,Manufacturing,47,Male,Latino,Manaus,Brazil,11/28/2005,,$62749,0% 
+E03778,Luke Vu,Sr. Manger,Marketing,Speciality Products,52,Male,Asian,Shanghai,China,6/4/2018,,$154884,10% 
+E00481,Jameson Nelson,Network Architect,IT,Research & Development,61,Male,Caucasian,Columbus,United States,3/8/2016,,$96566,0% 
+E02833,Adrian Fernandez,Systems Analyst,IT,Research & Development,45,Male,Latino,Columbus,United States,8/23/2001,,$54994,0% 
+E03902,Madison Hunter,Network Administrator,IT,Corporate,40,Female,Caucasian,Columbus,United States,2/5/2012,,$61523,0% 
+E02310,Jordan Phillips,Vice President,Human Resources,Corporate,45,Male,Black,Columbus,United States,12/12/2010,,$190512,32% 
+E02661,Maya Chan,Controls Engineer,Engineering,Speciality Products,37,Female,Asian,Beijing,China,2/13/2013,,$124827,0% 
+E00836,Wesley King,Manager,Accounting,Manufacturing,57,Male,Caucasian,Chicago,United States,1/19/2019,,$101577,5% 
+E00682,Sofia Fernandez,Manager,Accounting,Manufacturing,44,Female,Latino,Phoenix,United States,10/17/2005,,$105223,10% 
+E00287,Maverick Figueroa,IT Systems Architect,IT,Corporate,48,Male,Latino,Chicago,United States,7/6/2008,,$94815,0% 
+E00785,Hannah Hoang,Manager,Accounting,Speciality Products,25,Female,Asian,Chengdu,China,12/15/2021,,$114893,6% 
+E04598,Violet Garcia,Sr. Analyst,Marketing,Speciality Products,35,Female,Latino,Austin,United States,1/10/2017,,$80622,0% 
+E03247,Aaliyah Mai,Vice President,IT,Speciality Products,57,Female,Asian,Phoenix,United States,11/11/2016,3/26/2017,$246589,33% 
+E02703,Austin Vang,Manager,Marketing,Speciality Products,49,Male,Asian,Beijing,China,5/20/2018,3/14/2019,$119397,9% 
+E02191,Maria Sun,Director,Sales,Corporate,25,Female,Asian,Chengdu,China,12/19/2021,,$150666,23% 
+E00156,Madelyn Scott,Sr. Manger,IT,Research & Development,46,Female,Caucasian,Phoenix,United States,1/9/2002,,$148035,14% 
+E03349,Dylan Chin,Director,Finance,Corporate,60,Male,Asian,Miami,United States,6/5/2017,,$158898,18% 
+E04032,Emery Zhang,Field Engineer,Engineering,Corporate,45,Female,Asian,Beijing,China,2/28/2012,,$89659,0% 
+E00005,Riley Washington,Director,Sales,Speciality Products,39,Female,Caucasian,Phoenix,United States,4/29/2007,,$171487,23% 
+E04354,Raelynn Rios,Vice President,Sales,Manufacturing,43,Female,Latino,Columbus,United States,8/21/2016,,$258498,35% 
+E01578,Anthony Hong,Sr. Manger,IT,Research & Development,37,Male,Asian,Columbus,United States,11/29/2010,,$146961,11% 
+E03430,Leo Herrera,Sr. Business Partner,Human Resources,Research & Development,48,Male,Latino,Manaus,Brazil,4/22/1998,11/27/2004,$85369,0% 
+E03058,Robert Wright,Technical Architect,IT,Manufacturing,30,Male,Caucasian,Chicago,United States,6/14/2015,,$67489,0% 
+E04762,Audrey Richardson,Director,IT,Manufacturing,46,Female,Caucasian,Chicago,United States,10/6/2018,,$166259,17% 
+E01148,Scarlett Kumar,Systems Analyst,IT,Corporate,55,Female,Asian,Columbus,United States,1/7/2009,,$47032,0% 
+E03094,Wesley Young,Sr. Analyst,Marketing,Speciality Products,33,Male,Caucasian,Columbus,United States,9/18/2016,,$98427,0% 
+E01909,Lillian Khan,Analyst,Finance,Speciality Products,44,Female,Asian,Chengdu,China,5/31/2010,1/8/2018,$47387,0% 
+E04398,Oliver Yang,Director,Marketing,Speciality Products,31,Male,Asian,Miami,United States,6/10/2019,,$176710,15% 
+E02521,Lily Nguyen,Sr. Analyst,Finance,Speciality Products,33,Female,Asian,Chengdu,China,1/28/2012,,$95960,0% 
+E03545,Sofia Cheng,Vice President,Accounting,Corporate,63,Female,Asian,Miami,United States,7/26/2020,,$216195,31% 
