@@ -16,8 +16,7 @@ No setup required. Just download the JAR and run! 🚀
 ---
 
 ## 📸 Application Demo
-*(A GIF of the application in action would be perfect here to showcase its features visually)*
-`![Demo GIF of Employee Data Processor](path/to/demo.gif)`
+[![Watch the video](https://img.youtube.com/vi/sslKDaZ72Xg/0.jpg)](https://www.youtube.com/watch?v=sslKDaZ72Xg)
 
 ---
 
