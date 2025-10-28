@@ -1,7 +1,7 @@
 package com.EmployeeDataProcessor;
 import javax.swing.*; import javax.swing.event.*; import javax.swing.table.*; import javax.swing.text.*; import java.awt.*; import java.awt.event.*; import java.io.File; import java.nio.charset.Charset;import java.nio.file.Files; import java.util.List; import java.util.stream.*; import java.util.*; import java.util.function.*; import java.util.regex.Pattern; import com.formdev.flatlaf.FlatIntelliJLaf; import java.awt.image.BufferedImage;
 
-//models (compact records for efficient data representation)
+//models (compact records - minimum redundancy)
 record Employee(String name, int age, String department, double salary) {}
 record LoadResult(List<Employee> employees, Object[][] tableData, String[] headers) {}
 record ColumnState(String header, int modelIndex, JCheckBox checkBox, TableColumn column) {}
@@ -80,15 +80,16 @@ class MainFrame extends JFrame { private static final long serialVersionUID = 1L
         table = new JTable(tblModel); sorter = new TableRowSorter<>(tblModel); table.setRowSorter(sorter);
         UIHelper.setTextFieldLimit(searchField, 50); searchField.getDocument().addDocumentListener((SimpleDocListener)_ -> applyFilters());
         table.addMouseListener(new MouseAdapter(){ public void mouseClicked(MouseEvent e){
-        	if(e.getClickCount()==2&&table.getSelectedRow()!=-1){int r=table.convertRowIndexToModel(table.getSelectedRow()), nIdx=CSVLoader.findHIdx(allHeaders, "name","firstname","lastname"), dIdx=CSVLoader.findHIdx(allHeaders,"department");
-        	String n=nIdx!=-1?tblModel.getValueAt(r,nIdx).toString():"?", d=dIdx!=-1?tblModel.getValueAt(r,dIdx).toString():"?"; JOptionPane.showMessageDialog(MainFrame.this,"👤 "+n+" from "+d,"Details",1);}}});
+        	if(e.getClickCount()==2&&table.getSelectedRow()!=-1){int r=table.convertRowIndexToModel(table.getSelectedRow());Function<String[], String> find = ks -> {int i=CSVLoader.findHIdx(allHeaders,ks); return i!=-1&&tblModel.getValueAt(r,i)!=null?tblModel.getValueAt(r,i).toString().trim():"";};
+    		String f=find.apply(new String[]{"firstname","first name"}), l=find.apply(new String[]{"lastname","surname"}); String name= !f.isEmpty()&&!l.isEmpty()?f+" "+l : find.apply(new String[]{"name"}); String title=find.apply(new String[]{"job","title","position","role"}); String dept=find.apply(new String[]{"department","dept","division","building"});
+    		JOptionPane.showMessageDialog(MainFrame.this, "👤 "+(name.isEmpty()?"Employee":name) + (!title.isEmpty()?" : "+title:"") + (!dept.isEmpty()?" from "+dept:""),"Details",1);}}});
         add(createToolbar(), BorderLayout.NORTH);
         JScrollPane sp = new JScrollPane(table); sp.setBorder(BorderFactory.createEtchedBorder()); add(sp, BorderLayout.CENTER);
         JPanel sPnl = new JPanel(new FlowLayout(FlowLayout.LEFT)); sPnl.add(statusLbl); add(sPnl, BorderLayout.SOUTH);
         UIHelper.adjustColumnWidths(table); updateUIState();
     }
     private JComponent createToolbar() { //builds and returns the main application toolbar
-        var tb = new JPanel(new BorderLayout()); var lBar = new JPanel(new FlowLayout(FlowLayout.LEFT,5,5));
+    	var tb = new JPanel(new BorderLayout()); var lBar = new JPanel(new FlowLayout(FlowLayout.LEFT,5,5));
         lBar.add(new JButton("❌ Close"){{addActionListener(_->closeFile());}}); lBar.add(new JButton("✨ Req Ops"){{addActionListener(_->runAssignmentOps());}});
         lBar.add(new JLabel("Search:")); lBar.add(searchField); var rBar = new JPanel(new FlowLayout(FlowLayout.RIGHT,5,0));
         var avgPnl = new JPanel(new FlowLayout(FlowLayout.LEFT,3,0)); avgPnl.add(avgSalLbl);
@@ -110,8 +111,7 @@ class MainFrame extends JFrame { private static final long serialVersionUID = 1L
     }
     private void applyFilters() { //combines quick search and advanced filters
         var filters = new ArrayList<RowFilter<Object, Object>>(); String q = searchField.getText().trim();
-        if (!q.isEmpty()) { String p = q.startsWith("\"") && q.endsWith("\"") && q.length() > 1 ? "(?i)^" + Pattern.quote(q.substring(1, q.length() - 1)) + "$" : "(?i)" + Pattern.quote(q);
-            var pat = Pattern.compile(p); filters.add(new RowFilter<>() { public boolean include(Entry<?, ?> e) { for (int i=0; i<table.getColumnCount(); i++) if (e.getValue(table.convertColumnIndexToModel(i)) != null && pat.matcher(e.getValue(table.convertColumnIndexToModel(i)).toString()).find()) return true; return false; }});
+        if (!q.isEmpty()) { String p = q.startsWith("\"") && q.endsWith("\"") && q.length() > 1 ? "(?i)\\b" + Pattern.quote(q.substring(1, q.length() - 1)) + "\\b" : "(?i)" + Pattern.quote(q);            var pat = Pattern.compile(p); filters.add(new RowFilter<>() { public boolean include(Entry<?, ?> e) { for (int i=0; i<table.getColumnCount(); i++) if (e.getValue(table.convertColumnIndexToModel(i)) != null && pat.matcher(e.getValue(table.convertColumnIndexToModel(i)).toString()).find()) return true; return false; }});
         } if (advFilter != null) filters.add(advFilter); sorter.setRowFilter(filters.isEmpty() ? null : RowFilter.andFilter(filters));
         updateUIState();
     }
