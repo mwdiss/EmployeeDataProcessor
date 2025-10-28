@@ -16,7 +16,7 @@ class CSVLoader { //parses CSV data with a built-in encoding fallback
         List<String[]> lines = rawLines.stream().map(line -> line.split(",", -1)).toList();
         String[] headers = Arrays.stream(lines.get(0)).map(h -> h.trim().replace("\"", "")).toArray(String[]::new);
         int nameIdx=findHIdx(headers,"name"), ageIdx=findHIdx(headers,"age"), deptIdx=findHIdx(headers,"department","dept"), salIdx=findHIdx(headers,"salary");
-        if (nameIdx == -1 && findHIdx(headers, "firstname") == -1 || ageIdx == -1 || deptIdx == -1 || salIdx == -1) throw new Exception("CSV requires: Age, Department, Salary, and Name/FirstName.");
+        if (nameIdx == -1 && findHIdx(headers, "firstname") == -1 || ageIdx == -1 || deptIdx == -1 || salIdx == -1) throw new Exception("CSV requires: Age, Department, Salary and Name/FirstName.");
         List<Employee> empList = new ArrayList<>(); Object[][] data = new Object[lines.size() - 1][headers.length];
         for (int i = 1; i < lines.size(); i++) {
             try { String[] p = lines.get(i); String name=nameIdx!=-1?p[nameIdx].trim().replace("\"",""):"N/A", dept=p[deptIdx].trim().replace("\"","");
@@ -53,13 +53,16 @@ class ImportFrame extends JFrame { private static final long serialVersionUID = 
         mainPanel.add(topPanel, BorderLayout.NORTH); mainPanel.add(info, BorderLayout.CENTER); mainPanel.add(new JButton("🚀 Import & Launch"){{addActionListener(_ -> importData());}}, BorderLayout.SOUTH); add(mainPanel);
     }
     private void browseFile() { var fd = new FileDialog(this, "Select CSV", FileDialog.LOAD); fd.setFilenameFilter((_, name) -> name.endsWith(".csv")); fd.setVisible(true); if(fd.getFile()!=null) filePathField.setText(fd.getDirectory()+fd.getFile()); }
-    private void importData() { //handles the entire file loading and main window launching process
+    private void importData() { /*handles the entire file loading and main window launching process*/
         String path = filePathField.getText();
-        if (path.isEmpty()) { JOptionPane.showMessageDialog(this, "Select file.", "Error", 0); return; } setCursor(Cursor.getPredefinedCursor(Cursor.WAIT_CURSOR));
+        if (path.isEmpty()) { JOptionPane.showMessageDialog(this, "Please select a file to import.", "Input Required", JOptionPane.WARNING_MESSAGE); return; } setCursor(Cursor.getPredefinedCursor(Cursor.WAIT_CURSOR));
         try { var charsetsToTry = List.of(Charset.forName((String) encodingBox.getSelectedItem()), Charset.forName("Windows-1252"));
             LoadResult result = CSVLoader.loadWithFallback(new File(path), charsetsToTry); dispose();
             SwingUtilities.invokeLater(() -> new MainFrame(result.employees(), result.headers(), result.tableData(), path).setVisible(true));
-        } catch (Exception e) { JOptionPane.showMessageDialog(this, "Failed to load file:\n" + e.getMessage(), "Import Error", 0);
+        } catch (java.io.IOException e) { JOptionPane.showMessageDialog(this, "Could not read the file.\nPlease check that it exists, is not open elsewhere and you have permission to access it.", "File Access Error", JOptionPane.ERROR_MESSAGE);
+        } catch (Exception e) { String msg = e.getMessage(); /*fallback to a generic one for all other exceptions*/
+            String userMessage = msg != null && (msg.startsWith("File size") || msg.startsWith("Could not decode") || msg.startsWith("CSV requires")) ? msg : "The file could not be processed. It may be corrupt or in an unsupported format.";
+            JOptionPane.showMessageDialog(this, "Failed to load file:\n" + userMessage, "Import Error", JOptionPane.ERROR_MESSAGE);
         } finally { setCursor(Cursor.getDefaultCursor()); }
     }}
 
