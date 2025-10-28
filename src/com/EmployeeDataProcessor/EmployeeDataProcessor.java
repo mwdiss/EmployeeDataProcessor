@@ -1,7 +1,7 @@
 package com.EmployeeDataProcessor;
 import javax.swing.*; import javax.swing.event.*; import javax.swing.table.*; import javax.swing.text.*; import java.awt.*; import java.awt.event.*; import java.io.File; import java.nio.charset.Charset;import java.nio.file.Files; import java.util.List; import java.util.stream.*; import java.util.*; import java.util.function.*; import java.util.regex.Pattern; import com.formdev.flatlaf.FlatIntelliJLaf; import java.awt.image.BufferedImage;
 
-//models (compact records for efficient data representation)
+//models (compact records - minimum redundancy)
 record Employee(String name, int age, String department, double salary) {}
 record LoadResult(List<Employee> employees, Object[][] tableData, String[] headers) {}
 record ColumnState(String header, int modelIndex, JCheckBox checkBox, TableColumn column) {}
